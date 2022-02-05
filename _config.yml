@@ -65,7 +65,7 @@ defaults:
     values:
       layout: "post"
       author: Brennan K. Brown
-      avatar: assets/profile.png
+      avatar: assets/profile-sm.png
   - scope:
       path: ""
       type: notes
