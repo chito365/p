@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "Gratitude messages from the People"
+title: "Love you messages from the People"
 email: oscahchitoh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   People stats, messages and stories to say thank you. Designed for teachers, celebrities and mentors of all kinds.
@@ -34,13 +34,13 @@ google_analytics:
 comments: true
 disqus: purelog-jekyll
 
-author: Brennan K. Brown
+author: Chitoh
 author_bio: >-
   Hey there! 😄 My name is Chitoh, I'm a 65-year-old Consultant and 
   content strategist from Winnipeg, Manitoba and currently reside in Calgary, 
   Alberta. I'm looking to help those that need to be thanked, or 
   searching for a platform to show gratitude for the person they love.
-author_pic: https://brennanbrown.ca/img/avatar.png
+author_pic: https://www.afriqueunique.org/assets/profile.png
 paginate: 4
 paginate_path: "/:num/"
 
