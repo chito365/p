@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/joe-weller/
 permalink: /04/07/joe-weller
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

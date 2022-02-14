@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/april-gloria/
 permalink: /04/07/april-gloria
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

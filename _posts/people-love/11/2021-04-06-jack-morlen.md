@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jack-morlen/
 permalink: /04/06/jack-morlen
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

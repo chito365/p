@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/elizabeth-smart/
 permalink: /04/07/elizabeth-smart
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

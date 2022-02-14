@@ -7,14 +7,7 @@ layout: post
 guid: /jude-moore/
 permalink: /jude-moore
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

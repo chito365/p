@@ -7,28 +7,7 @@ layout: post
 guid: https://ukdataservers.com/michael-fitzpatrick/
 permalink: /04/06/michael-fitzpatrick
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
-  - unspecified
-  - single
-  - relationship
-  - engaged
-  - married
-  - complicated
-  - open relationship
-  - widowed
-  - separated
-  - divorced
-   - Husband
-  - Wife
-  - Boyfriend
-  - Girlfriend
+- say thank you
 category: Guides
 ---
 

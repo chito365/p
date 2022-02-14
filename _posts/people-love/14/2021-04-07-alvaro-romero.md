@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/alvaro-romero/
 permalink: /04/07/alvaro-romero
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

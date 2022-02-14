@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/alex-mcleod/
 permalink: /04/05/alex-mcleod
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

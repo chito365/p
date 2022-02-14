@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/daniel-ricciardo/
 permalink: /04/07/daniel-ricciardo
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

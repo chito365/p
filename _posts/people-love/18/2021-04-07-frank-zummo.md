@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/frank-zummo/
 permalink: /04/07/frank-zummo
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

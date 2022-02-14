@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jourdan-dunn/
 permalink: /04/07/jourdan-dunn
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

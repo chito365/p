@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/karen-gravano/
 permalink: /04/07/karen-gravano
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

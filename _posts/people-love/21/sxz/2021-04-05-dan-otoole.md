@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/dan-otoole/
 permalink: /04/05/dan-otoole
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

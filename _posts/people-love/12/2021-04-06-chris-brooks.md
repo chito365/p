@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/chris-brooks/
 permalink: /04/06/chris-brooks
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/edith-piaf/
 permalink: /04/07/edith-piaf
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

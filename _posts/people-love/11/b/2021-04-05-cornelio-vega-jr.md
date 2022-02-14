@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/cornelio-vega-jr/
 permalink: /04/05/cornelio-vega-jr
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

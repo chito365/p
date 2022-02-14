@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jazzy-gordon/
 permalink: /04/07/jazzy-gordon
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

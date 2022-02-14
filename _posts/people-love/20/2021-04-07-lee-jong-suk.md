@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/lee-jong-suk/
 permalink: /04/07/lee-jong-suk
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

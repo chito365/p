@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/judy-travis/
 permalink: /04/07/judy-travis
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

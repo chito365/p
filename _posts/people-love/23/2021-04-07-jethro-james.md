@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jethro-james/
 permalink: /04/07/jethro-james
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

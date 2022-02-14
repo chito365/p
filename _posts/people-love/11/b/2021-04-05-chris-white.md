@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/chris-white/
 permalink: /04/05/chris-white
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

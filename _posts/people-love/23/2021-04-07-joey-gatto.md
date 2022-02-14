@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/joey-gatto/
 permalink: /04/07/joey-gatto
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

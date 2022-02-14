@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jj-shurbet/
 permalink: /04/07/jj-shurbet
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

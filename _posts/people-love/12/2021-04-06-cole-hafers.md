@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/cole-hafers/
 permalink: /04/06/cole-hafers
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

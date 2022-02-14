@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/gary-rojas/
 permalink: /04/07/gary-rojas
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/steven-naismith/
 permalink: /04/05/steven-naismith
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

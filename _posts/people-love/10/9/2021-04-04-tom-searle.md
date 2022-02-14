@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/tom-searle/
 permalink: /04/04/tom-searle
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

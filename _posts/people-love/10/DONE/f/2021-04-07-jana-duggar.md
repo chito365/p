@@ -7,14 +7,7 @@ layout: post
 guid: /jana-duggar/
 permalink: /jana-duggar
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/adam-savage/
 permalink: /04/06/adam-savage
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

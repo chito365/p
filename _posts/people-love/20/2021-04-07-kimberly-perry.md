@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kimberly-perry/
 permalink: /04/07/kimberly-perry
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

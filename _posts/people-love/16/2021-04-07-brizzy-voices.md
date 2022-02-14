@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/brizzy-voices/
 permalink: /04/07/brizzy-voices
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

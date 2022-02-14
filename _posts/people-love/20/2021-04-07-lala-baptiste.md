@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/lala-baptiste/
 permalink: /04/07/lala-baptiste
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

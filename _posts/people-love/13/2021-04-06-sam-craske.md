@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/sam-craske/
 permalink: /04/06/sam-craske
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

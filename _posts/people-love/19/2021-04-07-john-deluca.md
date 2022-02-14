@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/john-deluca/
 permalink: /04/07/john-deluca
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

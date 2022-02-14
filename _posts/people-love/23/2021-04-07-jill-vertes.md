@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jill-vertes/
 permalink: /04/07/jill-vertes
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

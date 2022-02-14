@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/brock-weeb/
 permalink: /04/07/brock-weeb
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

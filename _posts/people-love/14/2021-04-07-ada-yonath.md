@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/ada-yonath/
 permalink: /04/07/ada-yonath
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

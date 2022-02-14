@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/k-michelle/
 permalink: /04/07/k-michelle
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

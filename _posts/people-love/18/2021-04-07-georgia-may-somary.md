@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/georgia-may-somary/
 permalink: /04/07/georgia-may-somary
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

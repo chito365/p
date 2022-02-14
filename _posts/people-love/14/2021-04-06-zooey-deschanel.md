@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/zooey-deschanel/
 permalink: /04/06/zooey-deschanel
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

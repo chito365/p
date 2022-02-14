@@ -7,14 +7,7 @@ layout: post
 guid: /janet-guzman/
 permalink: /janet-guzman
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/candice-swanepoel/
 permalink: /04/07/candice-swanepoel
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

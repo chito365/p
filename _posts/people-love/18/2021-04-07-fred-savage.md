@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/fred-savage/
 permalink: /04/07/fred-savage
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

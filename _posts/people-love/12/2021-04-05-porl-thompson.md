@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/porl-thompson/
 permalink: /04/05/porl-thompson
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

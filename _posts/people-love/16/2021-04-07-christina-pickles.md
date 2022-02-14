@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/christina-pickles/
 permalink: /04/07/christina-pickles
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

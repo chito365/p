@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/geoff-ramsey/
 permalink: /04/06/geoff-ramsey
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

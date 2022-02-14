@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/fleur-de-force/
 permalink: /04/07/fleur-de-force
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

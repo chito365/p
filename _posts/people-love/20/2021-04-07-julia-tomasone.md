@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/julia-tomasone/
 permalink: /04/07/julia-tomasone
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

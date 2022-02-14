@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jasmine-chiswell/
 permalink: /04/07/jasmine-chiswell
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

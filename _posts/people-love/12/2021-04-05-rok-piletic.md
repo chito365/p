@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/rok-piletic/
 permalink: /04/05/rok-piletic
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

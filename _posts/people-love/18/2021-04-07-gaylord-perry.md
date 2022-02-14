@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/gaylord-perry/
 permalink: /04/07/gaylord-perry
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

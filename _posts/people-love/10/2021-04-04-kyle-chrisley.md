@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kyle-chrisley/
 permalink: /04/04/kyle-chrisley
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

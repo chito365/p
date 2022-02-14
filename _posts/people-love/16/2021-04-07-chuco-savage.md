@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/chuco-savage/
 permalink: /04/07/chuco-savage
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

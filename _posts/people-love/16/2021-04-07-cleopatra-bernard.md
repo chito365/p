@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/cleopatra-bernard/
 permalink: /04/07/cleopatra-bernard
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

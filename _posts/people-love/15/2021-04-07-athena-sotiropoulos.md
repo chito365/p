@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/athena-sotiropoulos/
 permalink: /04/07/athena-sotiropoulos
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

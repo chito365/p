@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/geoff-wigington/
 permalink: /04/07/geoff-wigington
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

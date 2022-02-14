@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/boris-borisbone17/
 permalink: /04/07/boris-borisbone17
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

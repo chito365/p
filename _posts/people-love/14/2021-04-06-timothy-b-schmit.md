@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/timothy-b-schmit/
 permalink: /04/06/timothy-b-schmit
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

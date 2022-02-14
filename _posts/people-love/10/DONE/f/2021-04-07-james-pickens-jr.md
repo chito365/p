@@ -7,14 +7,7 @@ layout: post
 guid: /james-pickens-jr/
 permalink: /james-pickens-jr
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

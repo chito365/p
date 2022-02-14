@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jontavian-barber/
 permalink: /04/07/jontavian-barber
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/rory-omalley/
 permalink: /04/06/rory-omalley
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

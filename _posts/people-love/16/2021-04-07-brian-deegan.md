@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/brian-deegan/
 permalink: /04/07/brian-deegan
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

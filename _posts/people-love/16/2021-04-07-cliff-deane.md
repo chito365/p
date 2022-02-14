@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/cliff-deane/
 permalink: /04/07/cliff-deane
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

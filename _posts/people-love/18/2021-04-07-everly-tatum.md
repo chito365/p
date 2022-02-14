@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/everly-tatum/
 permalink: /04/07/everly-tatum
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

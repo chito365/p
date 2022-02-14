@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/julia-barretto/
 permalink: /04/07/julia-barretto
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

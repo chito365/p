@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kellie-bright/
 permalink: /04/07/kellie-bright
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

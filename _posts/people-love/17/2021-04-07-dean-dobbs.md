@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/dean-dobbs/
 permalink: /04/07/dean-dobbs
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

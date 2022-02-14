@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/sushant-singh-rajput/
 permalink: /04/06/sushant-singh-rajput
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

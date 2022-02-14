@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/elmo-magalona/
 permalink: /04/07/elmo-magalona
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

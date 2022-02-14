@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/vinnie-pergola/
 permalink: /04/06/vinnie-pergola
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

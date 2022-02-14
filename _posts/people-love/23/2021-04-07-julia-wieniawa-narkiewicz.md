@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/julia-wieniawa-narkiewicz/
 permalink: /04/07/julia-wieniawa-narkiewicz
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/alexis-torres/
 permalink: /04/07/alexis-torres
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/sant-scott/
 permalink: /04/06/sant-scott
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

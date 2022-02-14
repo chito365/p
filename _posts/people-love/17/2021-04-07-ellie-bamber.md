@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/ellie-bamber/
 permalink: /04/07/ellie-bamber
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/janet-devlin/
 permalink: /04/07/janet-devlin
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

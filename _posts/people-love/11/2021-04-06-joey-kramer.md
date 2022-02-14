@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/joey-kramer/
 permalink: /04/06/joey-kramer
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

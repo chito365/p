@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/barbra-streisand/
 permalink: /04/07/barbra-streisand
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

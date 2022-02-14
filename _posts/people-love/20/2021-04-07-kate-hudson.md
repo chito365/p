@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kate-hudson/
 permalink: /04/07/kate-hudson
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

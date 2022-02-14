@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/tanabodee-teerapongpakdee/
 permalink: /04/06/tanabodee-teerapongpakdee
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

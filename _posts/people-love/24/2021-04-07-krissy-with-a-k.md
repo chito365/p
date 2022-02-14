@@ -7,28 +7,7 @@ layout: post
 guid: https://ukdataservers.com/krissy-with-a-k/
 permalink: /04/07/krissy-with-a-k
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
-  - unspecified
-  - single
-  - relationship
-  - engaged
-  - married
-  - complicated
-  - open relationship
-  - widowed
-  - separated
-  - divorced
-   - Husband
-  - Wife
-  - Boyfriend
-  - Girlfriend
+- say thank you
 category: Guides
 ---
 

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/scott-hall/
 permalink: /04/05/scott-hall
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

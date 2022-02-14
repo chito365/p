@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/colton-haynes/
 permalink: /04/07/colton-haynes
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

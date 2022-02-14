@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/attrell-cordes/
 permalink: /04/06/attrell-cordes
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

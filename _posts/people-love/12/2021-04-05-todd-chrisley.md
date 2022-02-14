@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/todd-chrisley/
 permalink: /04/05/todd-chrisley
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

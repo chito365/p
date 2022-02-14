@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/floyd-mayweather-sr/
 permalink: /04/07/floyd-mayweather-sr
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/gabriella-skory/
 permalink: /04/07/gabriella-skory
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

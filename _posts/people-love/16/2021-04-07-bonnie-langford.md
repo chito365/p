@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/bonnie-langford/
 permalink: /04/07/bonnie-langford
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

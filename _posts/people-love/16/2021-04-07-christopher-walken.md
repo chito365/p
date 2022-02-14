@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/christopher-walken/
 permalink: /04/07/christopher-walken
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

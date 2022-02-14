@@ -7,14 +7,7 @@ layout: post
 guid: /julia-wieniawa-narkiewicz/
 permalink: /julia-wieniawa-narkiewicz
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

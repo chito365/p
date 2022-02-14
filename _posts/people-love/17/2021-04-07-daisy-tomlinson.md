@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/daisy-tomlinson/
 permalink: /04/07/daisy-tomlinson
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

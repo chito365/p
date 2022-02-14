@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jack-payne/
 permalink: /04/07/jack-payne
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

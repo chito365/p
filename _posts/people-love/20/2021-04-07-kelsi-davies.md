@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kelsi-davies/
 permalink: /04/07/kelsi-davies
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/chloe-difatta/
 permalink: /04/07/chloe-difatta
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

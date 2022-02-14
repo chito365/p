@@ -7,28 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kyle-thorn/
 permalink: /04/07/kyle-thorn
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
-  - unspecified
-  - single
-  - relationship
-  - engaged
-  - married
-  - complicated
-  - open relationship
-  - widowed
-  - separated
-  - divorced
-   - Husband
-  - Wife
-  - Boyfriend
-  - Girlfriend
+- say thank you
 category: Guides
 ---
 

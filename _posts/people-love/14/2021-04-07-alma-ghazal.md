@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/alma-ghazal/
 permalink: /04/07/alma-ghazal
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

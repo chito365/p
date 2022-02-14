@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/brittany-broski/
 permalink: /04/07/brittany-broski
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

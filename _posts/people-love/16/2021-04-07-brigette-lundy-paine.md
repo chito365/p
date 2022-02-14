@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/brigette-lundy-paine/
 permalink: /04/07/brigette-lundy-paine
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://popularbirthdays.com/leonardo-da-vinci/
 permalink: /2021/04/07/leonardo-da-vinci
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 <!--Content-->

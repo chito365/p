@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/alfie-mcmenemy/
 permalink: /04/07/alfie-mcmenemy
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

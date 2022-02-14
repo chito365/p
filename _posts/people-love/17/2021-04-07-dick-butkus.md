@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/dick-butkus/
 permalink: /04/07/dick-butkus
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

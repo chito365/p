@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kelly-oubre-jr/
 permalink: /04/07/kelly-oubre-jr
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

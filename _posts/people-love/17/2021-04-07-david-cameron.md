@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/david-cameron/
 permalink: /04/07/david-cameron
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

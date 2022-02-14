@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/brooklyn-mcknight/
 permalink: /04/07/brooklyn-mcknight
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/eero-heinonen/
 permalink: /04/07/eero-heinonen
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

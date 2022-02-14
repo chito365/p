@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/joe-montana/
 permalink: /04/07/joe-montana
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

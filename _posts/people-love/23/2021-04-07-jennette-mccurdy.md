@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jennette-mccurdy/
 permalink: /04/07/jennette-mccurdy
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

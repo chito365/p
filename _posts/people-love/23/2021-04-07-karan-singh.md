@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/karan-singh/
 permalink: /04/07/karan-singh
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

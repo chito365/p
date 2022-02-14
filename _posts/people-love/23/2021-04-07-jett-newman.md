@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jett-newman/
 permalink: /04/07/jett-newman
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

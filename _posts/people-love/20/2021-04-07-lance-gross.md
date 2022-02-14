@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/lance-gross/
 permalink: /04/07/lance-gross
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

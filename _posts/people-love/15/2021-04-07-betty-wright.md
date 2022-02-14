@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/betty-wright/
 permalink: /04/07/betty-wright
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

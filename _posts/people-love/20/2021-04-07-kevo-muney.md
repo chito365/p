@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kevo-muney/
 permalink: /04/07/kevo-muney
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jose-luis-terrazas-sr/
 permalink: /04/07/jose-luis-terrazas-sr
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/larry-king/
 permalink: /04/07/larry-king
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

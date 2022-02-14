@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/brad-marchand/
 permalink: /04/07/brad-marchand
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

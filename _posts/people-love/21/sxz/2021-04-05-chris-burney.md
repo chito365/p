@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/chris-burney/
 permalink: /04/05/chris-burney
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

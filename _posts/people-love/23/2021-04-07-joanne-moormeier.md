@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/joanne-moormeier/
 permalink: /04/07/joanne-moormeier
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

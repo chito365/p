@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jacob-elordi/
 permalink: /04/07/jacob-elordi
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

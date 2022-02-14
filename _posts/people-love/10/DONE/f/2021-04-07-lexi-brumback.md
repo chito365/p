@@ -7,14 +7,7 @@ layout: post
 guid: /lexi-brumback/
 permalink: /2021/04/07/lexi-brumback
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 <!--Content-->

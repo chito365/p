@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/alexandra-stan/
 permalink: /04/07/alexandra-stan
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

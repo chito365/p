@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/de-la-ghetto/
 permalink: /04/07/de-la-ghetto
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

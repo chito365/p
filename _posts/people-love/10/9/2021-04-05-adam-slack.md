@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/adam-slack/
 permalink: /04/05/adam-slack
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

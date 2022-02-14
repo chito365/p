@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/julia-kelly/
 permalink: /04/07/julia-kelly
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

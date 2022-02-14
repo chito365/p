@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/daniel-bruhl/
 permalink: /04/07/daniel-bruhl
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

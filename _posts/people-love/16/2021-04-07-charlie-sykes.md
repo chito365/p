@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/charlie-sykes/
 permalink: /04/07/charlie-sykes
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

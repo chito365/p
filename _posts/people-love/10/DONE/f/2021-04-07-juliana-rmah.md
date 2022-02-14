@@ -7,14 +7,7 @@ layout: post
 guid: /juliana-rmah/
 permalink: /juliana-rmah
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

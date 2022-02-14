@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/rudolph-schenker/
 permalink: /04/06/rudolph-schenker
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

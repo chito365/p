@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kunal-nayyar/
 permalink: /04/07/kunal-nayyar
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

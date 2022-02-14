@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/brooklyn-wyatt/
 permalink: /04/07/brooklyn-wyatt
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

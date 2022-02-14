@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/samantha-fekete/
 permalink: /04/06/samantha-fekete
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

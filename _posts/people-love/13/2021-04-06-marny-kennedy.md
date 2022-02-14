@@ -7,28 +7,7 @@ layout: post
 guid: https://ukdataservers.com/marny-kennedy/
 permalink: /04/06/marny-kennedy
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
-  - unspecified
-  - single
-  - relationship
-  - engaged
-  - married
-  - complicated
-  - open relationship
-  - widowed
-  - separated
-  - divorced
-   - Husband
-  - Wife
-  - Boyfriend
-  - Girlfriend
+- say thank you
 category: Guides
 ---
 

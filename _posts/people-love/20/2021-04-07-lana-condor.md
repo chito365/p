@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/lana-condor/
 permalink: /04/07/lana-condor
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

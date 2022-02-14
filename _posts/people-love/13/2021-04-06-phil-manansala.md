@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/phil-manansala/
 permalink: /04/06/phil-manansala
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

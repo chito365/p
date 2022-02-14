@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/honey-tingles/
 permalink: /04/07/honey-tingles
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

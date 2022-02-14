@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jordan-burton/
 permalink: /04/06/jordan-burton
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

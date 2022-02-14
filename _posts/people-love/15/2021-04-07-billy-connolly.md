@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/billy-connolly/
 permalink: /04/07/billy-connolly
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

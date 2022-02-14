@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/dan-kipnis/
 permalink: /04/06/dan-kipnis
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

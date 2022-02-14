@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/simone-whitmore/
 permalink: /04/06/simone-whitmore
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

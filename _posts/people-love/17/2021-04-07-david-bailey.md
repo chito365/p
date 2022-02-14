@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/david-bailey/
 permalink: /04/07/david-bailey
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

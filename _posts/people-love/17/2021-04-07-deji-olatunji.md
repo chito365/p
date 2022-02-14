@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/deji-olatunji/
 permalink: /04/07/deji-olatunji
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

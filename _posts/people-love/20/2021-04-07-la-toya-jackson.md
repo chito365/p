@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/la-toya-jackson/
 permalink: /04/07/la-toya-jackson
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jenelle-evans/
 permalink: /04/07/jenelle-evans
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

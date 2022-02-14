@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/chesley-sullenberger/
 permalink: /04/07/chesley-sullenberger
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

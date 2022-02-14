@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/bruce-parry/
 permalink: /04/05/bruce-parry
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

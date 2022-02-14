@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/john-mccain/
 permalink: /04/04/john-mccain
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

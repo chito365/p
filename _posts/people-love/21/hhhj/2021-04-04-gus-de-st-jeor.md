@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/gus-de-st-jeor/
 permalink: /04/04/gus-de-st-jeor
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

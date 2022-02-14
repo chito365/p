@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/dan-osborne/
 permalink: /04/07/dan-osborne
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

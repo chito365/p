@@ -7,14 +7,7 @@ layout: post
 guid: /jamie-bateson/
 permalink: /jamie-bateson
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

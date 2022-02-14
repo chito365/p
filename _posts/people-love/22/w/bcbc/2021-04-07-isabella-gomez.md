@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/isabella-gomez/
 permalink: /04/07/isabella-gomez
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

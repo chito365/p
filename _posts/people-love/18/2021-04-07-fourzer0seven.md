@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/fourzer0seven/
 permalink: /04/07/fourzer0seven
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

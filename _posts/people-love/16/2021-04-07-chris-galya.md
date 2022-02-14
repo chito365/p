@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/chris-galya/
 permalink: /04/07/chris-galya
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

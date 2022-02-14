@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/drew-monson/
 permalink: /04/07/drew-monson
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

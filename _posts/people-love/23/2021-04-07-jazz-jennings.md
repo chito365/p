@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jazz-jennings/
 permalink: /04/07/jazz-jennings
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

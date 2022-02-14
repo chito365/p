@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/josh-brueckner/
 permalink: /04/07/josh-brueckner
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

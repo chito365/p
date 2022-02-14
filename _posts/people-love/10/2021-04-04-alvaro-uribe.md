@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/alvaro-uribe/
 permalink: /04/04/alvaro-uribe
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/vicente-fernandez/
 permalink: /04/06/vicente-fernandez
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

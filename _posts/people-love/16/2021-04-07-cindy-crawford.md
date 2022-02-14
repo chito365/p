@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/cindy-crawford/
 permalink: /04/07/cindy-crawford
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

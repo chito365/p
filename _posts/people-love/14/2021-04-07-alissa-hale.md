@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/alissa-hale/
 permalink: /04/07/alissa-hale
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

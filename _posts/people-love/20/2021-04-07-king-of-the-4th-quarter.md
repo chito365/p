@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/king-of-the-4th-quarter/
 permalink: /04/07/king-of-the-4th-quarter
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

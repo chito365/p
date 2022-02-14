@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/christian-hogue/
 permalink: /04/07/christian-hogue
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

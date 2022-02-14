@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/pat-gillett/
 permalink: /04/05/pat-gillett
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

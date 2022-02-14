@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/christian-parrales/
 permalink: /04/07/christian-parrales
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

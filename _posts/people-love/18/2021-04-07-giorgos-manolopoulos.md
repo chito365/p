@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/giorgos-manolopoulos/
 permalink: /04/07/giorgos-manolopoulos
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

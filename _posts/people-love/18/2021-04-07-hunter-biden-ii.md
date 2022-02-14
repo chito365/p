@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/hunter-biden-ii/
 permalink: /04/07/hunter-biden-ii
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

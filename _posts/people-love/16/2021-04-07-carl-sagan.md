@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/carl-sagan/
 permalink: /04/07/carl-sagan
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

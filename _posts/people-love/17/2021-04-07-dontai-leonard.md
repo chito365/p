@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/dontai-leonard/
 permalink: /04/07/dontai-leonard
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

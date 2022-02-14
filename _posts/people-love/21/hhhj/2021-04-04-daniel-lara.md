@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/daniel-lara/
 permalink: /04/04/daniel-lara
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

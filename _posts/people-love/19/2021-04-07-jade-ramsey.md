@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jade-ramsey/
 permalink: /04/07/jade-ramsey
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

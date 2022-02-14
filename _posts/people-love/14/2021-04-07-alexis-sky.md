@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/alexis-sky/
 permalink: /04/07/alexis-sky
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/alex-george/
 permalink: /04/07/alex-george
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

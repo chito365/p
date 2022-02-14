@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jose-zuniga/
 permalink: /04/07/jose-zuniga
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

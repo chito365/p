@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/faye-chrisley/
 permalink: /04/07/faye-chrisley
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

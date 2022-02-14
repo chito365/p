@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/blake-richardson/
 permalink: /04/07/blake-richardson
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

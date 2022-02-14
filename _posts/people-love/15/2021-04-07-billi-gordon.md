@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/billi-gordon/
 permalink: /04/07/billi-gordon
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

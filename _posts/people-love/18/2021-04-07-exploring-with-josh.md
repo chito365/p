@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/exploring-with-josh/
 permalink: /04/07/exploring-with-josh
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

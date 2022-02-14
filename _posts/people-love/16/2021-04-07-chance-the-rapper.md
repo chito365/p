@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/chance-the-rapper/
 permalink: /04/07/chance-the-rapper
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

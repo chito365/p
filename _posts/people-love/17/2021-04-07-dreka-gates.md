@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/dreka-gates/
 permalink: /04/07/dreka-gates
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

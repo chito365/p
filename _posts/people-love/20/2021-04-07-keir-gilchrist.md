@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/keir-gilchrist/
 permalink: /04/07/keir-gilchrist
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

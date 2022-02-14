@@ -7,14 +7,7 @@ layout: post
 guid: /lexi-coles/
 permalink: /2021/04/07/lexi-coles
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 <!--Content-->

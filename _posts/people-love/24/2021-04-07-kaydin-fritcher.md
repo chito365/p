@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kaydin-fritcher/
 permalink: /04/07/kaydin-fritcher
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

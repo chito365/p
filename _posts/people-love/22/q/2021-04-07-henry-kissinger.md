@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/henry-kissinger/
 permalink: /04/07/henry-kissinger
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

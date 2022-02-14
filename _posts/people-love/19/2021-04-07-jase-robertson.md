@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jase-robertson/
 permalink: /04/07/jase-robertson
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

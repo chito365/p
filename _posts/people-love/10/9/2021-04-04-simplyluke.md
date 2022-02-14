@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/simplyluke/
 permalink: /04/04/simplyluke
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

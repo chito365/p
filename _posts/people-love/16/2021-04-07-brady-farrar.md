@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/brady-farrar/
 permalink: /04/07/brady-farrar
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

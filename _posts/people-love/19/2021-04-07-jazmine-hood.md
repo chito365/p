@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jazmine-hood/
 permalink: /04/07/jazmine-hood
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

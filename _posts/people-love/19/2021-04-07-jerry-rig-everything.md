@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jerry-rig-everything/
 permalink: /04/07/jerry-rig-everything
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kerri-medders/
 permalink: /04/07/kerri-medders
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

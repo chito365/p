@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/tamzin-taber/
 permalink: /04/06/tamzin-taber
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

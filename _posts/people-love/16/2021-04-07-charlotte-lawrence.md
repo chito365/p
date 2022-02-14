@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/charlotte-lawrence/
 permalink: /04/07/charlotte-lawrence
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

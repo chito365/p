@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/donel-mangena/
 permalink: /04/07/donel-mangena
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

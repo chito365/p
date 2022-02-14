@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/adam-g-sevani/
 permalink: /04/07/adam-g-sevani
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

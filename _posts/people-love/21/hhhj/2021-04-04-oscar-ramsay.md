@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/oscar-ramsay/
 permalink: /04/04/oscar-ramsay
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

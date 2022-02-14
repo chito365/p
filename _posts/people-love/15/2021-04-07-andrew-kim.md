@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/andrew-kim/
 permalink: /04/07/andrew-kim
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

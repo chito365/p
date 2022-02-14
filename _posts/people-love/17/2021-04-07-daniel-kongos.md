@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/daniel-kongos/
 permalink: /04/07/daniel-kongos
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

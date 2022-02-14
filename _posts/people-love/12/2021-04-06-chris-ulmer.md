@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/chris-ulmer/
 permalink: /04/06/chris-ulmer
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

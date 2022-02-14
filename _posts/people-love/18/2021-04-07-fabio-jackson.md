@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/fabio-jackson/
 permalink: /04/07/fabio-jackson
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

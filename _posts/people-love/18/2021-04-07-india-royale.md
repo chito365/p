@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/india-royale/
 permalink: /04/07/india-royale
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

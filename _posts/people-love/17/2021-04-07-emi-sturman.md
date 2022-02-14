@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/emi-sturman/
 permalink: /04/07/emi-sturman
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

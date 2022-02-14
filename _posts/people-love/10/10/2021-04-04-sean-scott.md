@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/sean-scott/
 permalink: /04/04/sean-scott
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

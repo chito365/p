@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/shay-carl-butler/
 permalink: /04/06/shay-carl-butler
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

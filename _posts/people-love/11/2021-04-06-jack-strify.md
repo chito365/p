@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jack-strify/
 permalink: /04/06/jack-strify
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

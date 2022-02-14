@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/garth-brooks/
 permalink: /04/07/garth-brooks
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

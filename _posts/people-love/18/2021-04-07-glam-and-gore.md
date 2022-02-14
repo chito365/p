@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/glam-and-gore/
 permalink: /04/07/glam-and-gore
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

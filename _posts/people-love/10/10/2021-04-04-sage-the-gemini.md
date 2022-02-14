@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/sage-the-gemini/
 permalink: /04/04/sage-the-gemini
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

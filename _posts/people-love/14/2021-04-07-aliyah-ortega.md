@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/aliyah-ortega/
 permalink: /04/07/aliyah-ortega
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

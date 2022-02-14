@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/dax-shepard/
 permalink: /04/06/dax-shepard
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

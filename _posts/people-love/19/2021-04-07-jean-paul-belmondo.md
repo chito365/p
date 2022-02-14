@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jean-paul-belmondo/
 permalink: /04/07/jean-paul-belmondo
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

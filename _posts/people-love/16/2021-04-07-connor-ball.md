@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/connor-ball/
 permalink: /04/07/connor-ball
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

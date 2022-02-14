@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/brandi-glanville/
 permalink: /04/07/brandi-glanville
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

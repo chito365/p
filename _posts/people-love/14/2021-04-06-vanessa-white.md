@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/vanessa-white/
 permalink: /04/06/vanessa-white
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

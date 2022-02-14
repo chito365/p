@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/cree-summer/
 permalink: /04/07/cree-summer
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

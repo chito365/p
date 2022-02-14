@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kiefer-sutherland/
 permalink: /04/07/kiefer-sutherland
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

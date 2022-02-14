@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/sam-veness/
 permalink: /04/05/sam-veness
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/andres-penate/
 permalink: /04/06/andres-penate
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

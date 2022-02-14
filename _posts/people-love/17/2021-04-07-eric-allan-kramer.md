@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/eric-allan-kramer/
 permalink: /04/07/eric-allan-kramer
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

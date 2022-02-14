@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/isaac-butterfield/
 permalink: /04/07/isaac-butterfield
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

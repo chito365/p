@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jack-anderson/
 permalink: /04/07/jack-anderson
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

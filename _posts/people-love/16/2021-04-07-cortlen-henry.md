@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/cortlen-henry/
 permalink: /04/07/cortlen-henry
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

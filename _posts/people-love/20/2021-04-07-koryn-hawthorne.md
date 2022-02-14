@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/koryn-hawthorne/
 permalink: /04/07/koryn-hawthorne
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

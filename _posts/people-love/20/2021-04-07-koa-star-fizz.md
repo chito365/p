@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/koa-star-fizz/
 permalink: /04/07/koa-star-fizz
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

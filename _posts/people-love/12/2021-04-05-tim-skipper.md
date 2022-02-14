@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/tim-skipper/
 permalink: /04/05/tim-skipper
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

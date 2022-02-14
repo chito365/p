@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/charlotte-dean/
 permalink: /04/07/charlotte-dean
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

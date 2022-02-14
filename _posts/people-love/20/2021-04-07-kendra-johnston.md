@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kendra-johnston/
 permalink: /04/07/kendra-johnston
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

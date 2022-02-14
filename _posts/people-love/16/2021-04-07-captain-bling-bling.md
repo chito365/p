@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/captain-bling-bling/
 permalink: /04/07/captain-bling-bling
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

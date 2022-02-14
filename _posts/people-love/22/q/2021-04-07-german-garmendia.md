@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/german-garmendia/
 permalink: /04/07/german-garmendia
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/freya-nightingale/
 permalink: /04/07/freya-nightingale
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

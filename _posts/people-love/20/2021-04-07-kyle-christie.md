@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kyle-christie/
 permalink: /04/07/kyle-christie
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

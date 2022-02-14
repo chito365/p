@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/briar-rose/
 permalink: /04/07/briar-rose
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/henri-richard/
 permalink: /04/07/henri-richard
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

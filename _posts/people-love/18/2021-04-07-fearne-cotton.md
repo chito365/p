@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/fearne-cotton/
 permalink: /04/07/fearne-cotton
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

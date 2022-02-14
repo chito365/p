@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/ellis-records/
 permalink: /04/06/ellis-records
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/wade-smith/
 permalink: /04/05/wade-smith
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

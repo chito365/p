@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/cooper-noriega/
 permalink: /04/07/cooper-noriega
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

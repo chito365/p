@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/fredo-santana/
 permalink: /04/07/fredo-santana
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

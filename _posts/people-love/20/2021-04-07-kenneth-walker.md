@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kenneth-walker/
 permalink: /04/07/kenneth-walker
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

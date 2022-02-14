@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/charles-nguyen/
 permalink: /04/07/charles-nguyen
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

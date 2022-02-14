@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/steve-shelley/
 permalink: /04/06/steve-shelley
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

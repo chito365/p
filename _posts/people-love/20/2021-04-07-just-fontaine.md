@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/just-fontaine/
 permalink: /04/07/just-fontaine
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

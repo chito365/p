@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/geoff-downes/
 permalink: /04/06/geoff-downes
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/chuck-norris/
 permalink: /04/07/chuck-norris
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

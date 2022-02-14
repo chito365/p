@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/elijah-lamb/
 permalink: /04/07/elijah-lamb
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

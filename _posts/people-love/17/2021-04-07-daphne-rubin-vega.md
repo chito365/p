@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/daphne-rubin-vega/
 permalink: /04/07/daphne-rubin-vega
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

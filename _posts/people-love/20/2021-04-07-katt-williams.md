@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/katt-williams/
 permalink: /04/07/katt-williams
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

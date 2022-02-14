@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jayson-tatum/
 permalink: /04/07/jayson-tatum
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

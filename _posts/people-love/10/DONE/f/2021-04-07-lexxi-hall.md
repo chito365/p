@@ -7,14 +7,7 @@ layout: post
 guid: /lexxi-hall/
 permalink: /2021/04/07/lexxi-hall
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 <!--Content-->

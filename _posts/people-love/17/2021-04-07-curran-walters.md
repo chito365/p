@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/curran-walters/
 permalink: /04/07/curran-walters
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

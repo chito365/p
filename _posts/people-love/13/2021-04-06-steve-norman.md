@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/steve-norman/
 permalink: /04/06/steve-norman
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

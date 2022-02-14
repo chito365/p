@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/april-scott/
 permalink: /04/07/april-scott
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

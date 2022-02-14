@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/andrea-navedo/
 permalink: /04/07/andrea-navedo
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

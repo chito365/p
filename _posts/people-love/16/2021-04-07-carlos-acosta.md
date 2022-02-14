@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/carlos-acosta/
 permalink: /04/07/carlos-acosta
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

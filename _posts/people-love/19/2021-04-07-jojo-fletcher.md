@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jojo-fletcher/
 permalink: /04/07/jojo-fletcher
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

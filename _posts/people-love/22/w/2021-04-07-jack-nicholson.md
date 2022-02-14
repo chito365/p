@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jack-nicholson/
 permalink: /04/07/jack-nicholson
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/dena-kaplan/
 permalink: /04/07/dena-kaplan
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

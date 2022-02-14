@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/clifford-owusu/
 permalink: /04/07/clifford-owusu
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

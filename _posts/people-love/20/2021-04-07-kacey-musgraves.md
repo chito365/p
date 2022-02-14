@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kacey-musgraves/
 permalink: /04/07/kacey-musgraves
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

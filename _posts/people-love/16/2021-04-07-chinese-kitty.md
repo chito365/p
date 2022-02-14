@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/chinese-kitty/
 permalink: /04/07/chinese-kitty
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

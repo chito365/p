@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/annelise-craftygirls/
 permalink: /04/07/annelise-craftygirls
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

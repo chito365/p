@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jerry-rice/
 permalink: /04/07/jerry-rice
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

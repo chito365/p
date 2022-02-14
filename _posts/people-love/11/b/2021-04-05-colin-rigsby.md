@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/colin-rigsby/
 permalink: /04/05/colin-rigsby
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

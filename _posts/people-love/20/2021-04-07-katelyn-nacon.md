@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/katelyn-nacon/
 permalink: /04/07/katelyn-nacon
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

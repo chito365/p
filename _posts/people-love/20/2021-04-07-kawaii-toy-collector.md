@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kawaii-toy-collector/
 permalink: /04/07/kawaii-toy-collector
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

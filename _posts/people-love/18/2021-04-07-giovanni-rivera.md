@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/giovanni-rivera/
 permalink: /04/07/giovanni-rivera
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

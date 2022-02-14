@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/keone-madrid/
 permalink: /04/07/keone-madrid
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

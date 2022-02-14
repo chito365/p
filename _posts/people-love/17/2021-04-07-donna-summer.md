@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/donna-summer/
 permalink: /04/07/donna-summer
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

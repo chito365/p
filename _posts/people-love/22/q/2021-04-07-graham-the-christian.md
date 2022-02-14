@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/graham-the-christian/
 permalink: /04/07/graham-the-christian
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

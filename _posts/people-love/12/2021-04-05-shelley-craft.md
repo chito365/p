@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/shelley-craft/
 permalink: /04/05/shelley-craft
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

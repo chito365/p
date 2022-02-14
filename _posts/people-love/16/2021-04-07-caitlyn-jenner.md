@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/caitlyn-jenner/
 permalink: /04/07/caitlyn-jenner
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

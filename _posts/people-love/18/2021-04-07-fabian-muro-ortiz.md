@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/fabian-muro-ortiz/
 permalink: /04/07/fabian-muro-ortiz
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

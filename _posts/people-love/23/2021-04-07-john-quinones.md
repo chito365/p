@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/john-quinones/
 permalink: /04/07/john-quinones
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

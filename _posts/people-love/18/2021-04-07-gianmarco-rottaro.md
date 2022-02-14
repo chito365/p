@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/gianmarco-rottaro/
 permalink: /04/07/gianmarco-rottaro
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

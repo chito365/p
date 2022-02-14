@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/caterina-scorsone/
 permalink: /04/07/caterina-scorsone
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

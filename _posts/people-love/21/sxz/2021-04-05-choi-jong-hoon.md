@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/choi-jong-hoon/
 permalink: /04/05/choi-jong-hoon
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

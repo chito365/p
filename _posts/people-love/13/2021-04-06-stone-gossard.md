@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/stone-gossard/
 permalink: /04/06/stone-gossard
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

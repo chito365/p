@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/ada-james-akins/
 permalink: /04/07/ada-james-akins
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: /jaren-lewison/
 permalink: /jaren-lewison
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

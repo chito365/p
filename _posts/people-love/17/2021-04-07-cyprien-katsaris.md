@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/cyprien-katsaris/
 permalink: /04/07/cyprien-katsaris
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

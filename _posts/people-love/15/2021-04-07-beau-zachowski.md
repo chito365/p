@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/beau-zachowski/
 permalink: /04/07/beau-zachowski
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

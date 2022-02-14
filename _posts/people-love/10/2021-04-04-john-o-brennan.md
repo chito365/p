@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/john-o-brennan/
 permalink: /04/04/john-o-brennan
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/davonte-house/
 permalink: /04/07/davonte-house
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

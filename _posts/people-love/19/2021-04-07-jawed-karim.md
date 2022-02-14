@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jawed-karim/
 permalink: /04/07/jawed-karim
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

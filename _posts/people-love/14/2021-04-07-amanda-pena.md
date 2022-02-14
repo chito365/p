@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/amanda-pena/
 permalink: /04/07/amanda-pena
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

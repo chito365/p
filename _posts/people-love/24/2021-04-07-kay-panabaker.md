@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kay-panabaker/
 permalink: /04/07/kay-panabaker
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

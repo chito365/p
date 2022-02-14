@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/daddy-yankee/
 permalink: /04/07/daddy-yankee
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

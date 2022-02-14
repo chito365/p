@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/john-ritter/
 permalink: /04/07/john-ritter
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jacy-rodriguez/
 permalink: /04/07/jacy-rodriguez
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/ayesha-curry/
 permalink: /04/07/ayesha-curry
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

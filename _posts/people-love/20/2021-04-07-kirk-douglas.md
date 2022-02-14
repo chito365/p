@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kirk-douglas/
 permalink: /04/07/kirk-douglas
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

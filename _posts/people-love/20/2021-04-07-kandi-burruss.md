@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kandi-burruss/
 permalink: /04/07/kandi-burruss
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

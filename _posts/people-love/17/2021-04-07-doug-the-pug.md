@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/doug-the-pug/
 permalink: /04/07/doug-the-pug
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

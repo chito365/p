@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jon-guelas/
 permalink: /04/06/jon-guelas
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

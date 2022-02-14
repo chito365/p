@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kevin-strahle/
 permalink: /04/07/kevin-strahle
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

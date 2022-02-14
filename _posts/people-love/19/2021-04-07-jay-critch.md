@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jay-critch/
 permalink: /04/07/jay-critch
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

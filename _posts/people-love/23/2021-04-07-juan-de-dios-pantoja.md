@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/juan-de-dios-pantoja/
 permalink: /04/07/juan-de-dios-pantoja
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

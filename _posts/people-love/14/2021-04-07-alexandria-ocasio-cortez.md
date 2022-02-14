@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/alexandria-ocasio-cortez/
 permalink: /04/07/alexandria-ocasio-cortez
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

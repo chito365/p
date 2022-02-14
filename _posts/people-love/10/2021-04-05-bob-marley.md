@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/bob-marley/
 permalink: /04/05/bob-marley
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

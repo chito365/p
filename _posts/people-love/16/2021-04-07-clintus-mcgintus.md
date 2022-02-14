@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/clintus-mcgintus/
 permalink: /04/07/clintus-mcgintus
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

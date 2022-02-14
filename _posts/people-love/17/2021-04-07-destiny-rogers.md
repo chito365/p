@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/destiny-rogers/
 permalink: /04/07/destiny-rogers
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

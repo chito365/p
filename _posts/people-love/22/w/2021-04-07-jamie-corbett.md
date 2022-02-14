@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jamie-corbett/
 permalink: /04/07/jamie-corbett
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

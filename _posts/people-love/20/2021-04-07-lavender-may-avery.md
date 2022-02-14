@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/lavender-may-avery/
 permalink: /04/07/lavender-may-avery
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

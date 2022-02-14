@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/cormac-connell/
 permalink: /04/06/cormac-connell
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

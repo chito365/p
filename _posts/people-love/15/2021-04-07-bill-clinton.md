@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/bill-clinton/
 permalink: /04/07/bill-clinton
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jesse-kongos/
 permalink: /04/07/jesse-kongos
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

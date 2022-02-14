@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jenna-marbles/
 permalink: /04/07/jenna-marbles
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

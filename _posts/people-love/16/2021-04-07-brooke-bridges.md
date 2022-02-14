@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/brooke-bridges/
 permalink: /04/07/brooke-bridges
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

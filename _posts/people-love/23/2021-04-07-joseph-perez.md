@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/joseph-perez/
 permalink: /04/07/joseph-perez
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/chris-brown/
 permalink: /04/04/chris-brown
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

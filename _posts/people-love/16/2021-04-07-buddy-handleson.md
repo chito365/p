@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/buddy-handleson/
 permalink: /04/07/buddy-handleson
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

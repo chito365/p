@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/chris-rock/
 permalink: /04/07/chris-rock
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

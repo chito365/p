@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/bobby-roode/
 permalink: /04/05/bobby-roode
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

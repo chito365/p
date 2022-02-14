@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/simon-wright/
 permalink: /04/05/simon-wright
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

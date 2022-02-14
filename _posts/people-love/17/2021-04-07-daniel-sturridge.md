@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/daniel-sturridge/
 permalink: /04/07/daniel-sturridge
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

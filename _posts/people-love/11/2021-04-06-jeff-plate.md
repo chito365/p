@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jeff-plate/
 permalink: /04/06/jeff-plate
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

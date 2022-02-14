@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/khalani-simon/
 permalink: /04/07/khalani-simon
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/bob-pettit/
 permalink: /04/07/bob-pettit
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

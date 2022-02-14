@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/brinn-nicole/
 permalink: /04/07/brinn-nicole
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

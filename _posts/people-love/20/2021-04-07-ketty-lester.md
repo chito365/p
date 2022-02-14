@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/ketty-lester/
 permalink: /04/07/ketty-lester
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/quinn-allman/
 permalink: /04/06/quinn-allman
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/buster-posey/
 permalink: /04/07/buster-posey
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

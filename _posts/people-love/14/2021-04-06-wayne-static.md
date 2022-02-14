@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/wayne-static/
 permalink: /04/06/wayne-static
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

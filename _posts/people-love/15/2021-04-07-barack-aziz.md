@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/barack-aziz/
 permalink: /04/07/barack-aziz
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

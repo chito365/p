@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/sami-bearden/
 permalink: /04/05/sami-bearden
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

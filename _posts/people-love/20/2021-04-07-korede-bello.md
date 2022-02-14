@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/korede-bello/
 permalink: /04/07/korede-bello
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

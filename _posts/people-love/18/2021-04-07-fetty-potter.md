@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/fetty-potter/
 permalink: /04/07/fetty-potter
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

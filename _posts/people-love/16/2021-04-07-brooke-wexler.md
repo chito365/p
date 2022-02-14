@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/brooke-wexler/
 permalink: /04/07/brooke-wexler
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/enes-batur/
 permalink: /04/07/enes-batur
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

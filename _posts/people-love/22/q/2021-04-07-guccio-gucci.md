@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/guccio-gucci/
 permalink: /04/07/guccio-gucci
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

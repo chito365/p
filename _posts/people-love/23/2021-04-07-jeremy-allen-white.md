@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jeremy-allen-white/
 permalink: /04/07/jeremy-allen-white
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

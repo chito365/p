@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/chwe-vernon-hansol/
 permalink: /04/07/chwe-vernon-hansol
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

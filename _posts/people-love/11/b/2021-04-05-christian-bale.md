@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/christian-bale/
 permalink: /04/05/christian-bale
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

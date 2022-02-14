@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kim-jong-kook/
 permalink: /04/07/kim-jong-kook
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

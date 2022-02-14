@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/king-harris/
 permalink: /04/07/king-harris
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

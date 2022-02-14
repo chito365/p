@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/ron-johnson/
 permalink: /04/04/ron-johnson
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

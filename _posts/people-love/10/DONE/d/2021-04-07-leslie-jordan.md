@@ -7,14 +7,7 @@ layout: post
 guid: https://popularbirthdays.com/leslie-jordan/
 permalink: /2021/04/07/leslie-jordan
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 <!--Content-->

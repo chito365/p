@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jules-coutinho/
 permalink: /04/07/jules-coutinho
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

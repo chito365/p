@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/gabriel-bateman/
 permalink: /04/07/gabriel-bateman
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

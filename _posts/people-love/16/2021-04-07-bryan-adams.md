@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/bryan-adams/
 permalink: /04/07/bryan-adams
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

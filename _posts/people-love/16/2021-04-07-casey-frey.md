@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/casey-frey/
 permalink: /04/07/casey-frey
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

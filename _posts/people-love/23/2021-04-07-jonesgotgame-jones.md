@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jonesgotgame-jones/
 permalink: /04/07/jonesgotgame-jones
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

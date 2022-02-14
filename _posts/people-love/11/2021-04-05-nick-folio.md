@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/nick-folio/
 permalink: /04/05/nick-folio
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/young-buck/
 permalink: /04/06/young-buck
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

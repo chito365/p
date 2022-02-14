@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jordan-licausi/
 permalink: /04/07/jordan-licausi
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

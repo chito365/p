@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/barry-fortgang/
 permalink: /04/05/barry-fortgang
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

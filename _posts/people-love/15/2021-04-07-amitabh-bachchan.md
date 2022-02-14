@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/amitabh-bachchan/
 permalink: /04/07/amitabh-bachchan
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

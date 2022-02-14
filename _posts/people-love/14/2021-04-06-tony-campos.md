@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/tony-campos/
 permalink: /04/06/tony-campos
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

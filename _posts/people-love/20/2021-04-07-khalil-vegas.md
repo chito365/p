@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/khalil-vegas/
 permalink: /04/07/khalil-vegas
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

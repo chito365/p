@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/hello-langie/
 permalink: /04/07/hello-langie
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

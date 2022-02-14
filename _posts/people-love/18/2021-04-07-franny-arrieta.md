@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/franny-arrieta/
 permalink: /04/07/franny-arrieta
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/dr-heavenly/
 permalink: /04/07/dr-heavenly
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

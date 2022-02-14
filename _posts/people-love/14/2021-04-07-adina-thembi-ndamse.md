@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/adina-thembi-ndamse/
 permalink: /04/07/adina-thembi-ndamse
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

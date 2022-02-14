@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/robert-topala/
 permalink: /04/06/robert-topala
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

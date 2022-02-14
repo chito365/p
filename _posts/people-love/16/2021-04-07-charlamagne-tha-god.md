@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/charlamagne-tha-god/
 permalink: /04/07/charlamagne-tha-god
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

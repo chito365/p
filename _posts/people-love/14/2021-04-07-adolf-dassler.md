@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/adolf-dassler/
 permalink: /04/07/adolf-dassler
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

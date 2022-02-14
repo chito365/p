@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/chance-mizell/
 permalink: /04/07/chance-mizell
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

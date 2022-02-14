@@ -7,14 +7,7 @@ layout: post
 guid: /jordi-alba/
 permalink: /jordi-alba
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

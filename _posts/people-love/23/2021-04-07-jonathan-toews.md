@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jonathan-toews/
 permalink: /04/07/jonathan-toews
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kourtney-kardashian/
 permalink: /04/07/kourtney-kardashian
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

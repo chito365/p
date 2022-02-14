@@ -7,14 +7,7 @@ layout: post
 guid: /justin-degryse/
 permalink: /justin-degryse
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/alejandro-rosario/
 permalink: /04/07/alejandro-rosario
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

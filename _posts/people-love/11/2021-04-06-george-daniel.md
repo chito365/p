@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/george-daniel/
 permalink: /04/06/george-daniel
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

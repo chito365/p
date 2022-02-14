@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/billi-bhatti/
 permalink: /04/07/billi-bhatti
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

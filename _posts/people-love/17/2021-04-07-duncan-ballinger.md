@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/duncan-ballinger/
 permalink: /04/07/duncan-ballinger
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

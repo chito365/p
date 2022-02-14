@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/golden-kye/
 permalink: /04/07/golden-kye
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

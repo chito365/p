@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jinger-duggar/
 permalink: /04/07/jinger-duggar
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

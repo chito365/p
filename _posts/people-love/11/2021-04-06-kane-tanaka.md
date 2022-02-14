@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kane-tanaka/
 permalink: /04/06/kane-tanaka
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

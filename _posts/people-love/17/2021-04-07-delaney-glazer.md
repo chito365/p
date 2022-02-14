@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/delaney-glazer/
 permalink: /04/07/delaney-glazer
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

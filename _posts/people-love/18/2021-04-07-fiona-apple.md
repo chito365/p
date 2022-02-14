@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/fiona-apple/
 permalink: /04/07/fiona-apple
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

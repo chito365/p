@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jordan-lipscombe/
 permalink: /04/07/jordan-lipscombe
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

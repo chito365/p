@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/bryce-parker/
 permalink: /04/07/bryce-parker
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

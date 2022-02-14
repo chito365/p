@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/alia-bhatt/
 permalink: /04/07/alia-bhatt
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

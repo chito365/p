@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/gabi-demartino/
 permalink: /04/07/gabi-demartino
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

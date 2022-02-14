@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/ethan-karpathy/
 permalink: /04/06/ethan-karpathy
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

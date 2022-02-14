@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/hank-williams-sr/
 permalink: /04/07/hank-williams-sr
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

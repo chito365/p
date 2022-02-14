@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/russell-lissack/
 permalink: /04/06/russell-lissack
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

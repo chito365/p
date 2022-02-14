@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/geminitay/
 permalink: /04/07/geminitay
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

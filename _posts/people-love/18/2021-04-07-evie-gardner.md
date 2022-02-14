@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/evie-gardner/
 permalink: /04/07/evie-gardner
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

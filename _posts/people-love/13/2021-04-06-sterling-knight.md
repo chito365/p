@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/sterling-knight/
 permalink: /04/06/sterling-knight
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

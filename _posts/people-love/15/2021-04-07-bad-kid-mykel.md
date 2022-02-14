@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/bad-kid-mykel/
 permalink: /04/07/bad-kid-mykel
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

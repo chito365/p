@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jack-oconnell/
 permalink: /04/07/jack-oconnell
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

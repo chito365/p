@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/corinna-kopf/
 permalink: /04/07/corinna-kopf
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

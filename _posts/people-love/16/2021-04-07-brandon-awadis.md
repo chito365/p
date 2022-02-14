@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/brandon-awadis/
 permalink: /04/07/brandon-awadis
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

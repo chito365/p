@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/joaquin-bondoni/
 permalink: /04/07/joaquin-bondoni
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/bradley-hart/
 permalink: /04/07/bradley-hart
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

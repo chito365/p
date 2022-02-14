@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/julian-barboza/
 permalink: /04/07/julian-barboza
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

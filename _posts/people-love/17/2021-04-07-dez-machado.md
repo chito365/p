@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/dez-machado/
 permalink: /04/07/dez-machado
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

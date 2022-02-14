@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/gretchen-weiss/
 permalink: /04/07/gretchen-weiss
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

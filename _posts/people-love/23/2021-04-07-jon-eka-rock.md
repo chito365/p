@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jon-eka-rock/
 permalink: /04/07/jon-eka-rock
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

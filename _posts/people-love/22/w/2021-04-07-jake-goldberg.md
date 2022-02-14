@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jake-goldberg/
 permalink: /04/07/jake-goldberg
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

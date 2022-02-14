@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/brandon-t-jackson/
 permalink: /04/07/brandon-t-jackson
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

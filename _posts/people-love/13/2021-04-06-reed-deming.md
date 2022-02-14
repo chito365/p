@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/reed-deming/
 permalink: /04/06/reed-deming
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

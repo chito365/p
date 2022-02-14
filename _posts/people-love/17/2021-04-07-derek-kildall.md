@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/derek-kildall/
 permalink: /04/07/derek-kildall
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/aaron-sorkin/
 permalink: /04/05/aaron-sorkin
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

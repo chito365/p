@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jim-adkins/
 permalink: /04/06/jim-adkins
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

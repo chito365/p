@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/bobbie-thomas/
 permalink: /04/05/bobbie-thomas
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

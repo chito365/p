@@ -7,14 +7,7 @@ layout: post
 guid: /josh-krumich/
 permalink: /josh-krumich
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/josh-denzel/
 permalink: /04/07/josh-denzel
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

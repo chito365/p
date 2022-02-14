@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jodie-foster/
 permalink: /04/07/jodie-foster
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

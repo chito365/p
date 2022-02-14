@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/karli-reese/
 permalink: /04/07/karli-reese
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

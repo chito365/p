@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/alec-golinger/
 permalink: /04/07/alec-golinger
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

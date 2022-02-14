@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kobe-bryant/
 permalink: /04/07/kobe-bryant
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

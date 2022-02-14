@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/avery-resnikoff/
 permalink: /04/07/avery-resnikoff
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

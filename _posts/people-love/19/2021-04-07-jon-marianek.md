@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jon-marianek/
 permalink: /04/07/jon-marianek
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

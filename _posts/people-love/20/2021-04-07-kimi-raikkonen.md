@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kimi-raikkonen/
 permalink: /04/07/kimi-raikkonen
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/boris-johnson/
 permalink: /04/06/boris-johnson
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/stark-sands/
 permalink: /04/06/stark-sands
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

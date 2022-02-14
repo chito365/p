@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/angelina-jolie/
 permalink: /04/07/angelina-jolie
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

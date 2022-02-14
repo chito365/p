@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/eddie-montgomery/
 permalink: /04/05/eddie-montgomery
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

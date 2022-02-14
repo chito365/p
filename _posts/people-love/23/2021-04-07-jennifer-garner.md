@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jennifer-garner/
 permalink: /04/07/jennifer-garner
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

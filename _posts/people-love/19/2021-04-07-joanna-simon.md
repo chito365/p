@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/joanna-simon/
 permalink: /04/07/joanna-simon
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/coretta-scott-king/
 permalink: /04/07/coretta-scott-king
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

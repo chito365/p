@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/alanna-dergan/
 permalink: /04/07/alanna-dergan
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

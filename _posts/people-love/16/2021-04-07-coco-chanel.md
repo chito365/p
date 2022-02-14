@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/coco-chanel/
 permalink: /04/07/coco-chanel
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

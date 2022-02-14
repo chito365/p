@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/elena-taber/
 permalink: /04/07/elena-taber
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/andrew-robertson/
 permalink: /04/07/andrew-robertson
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/keith-pichardo/
 permalink: /04/07/keith-pichardo
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

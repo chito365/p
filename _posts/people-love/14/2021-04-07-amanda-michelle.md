@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/amanda-michelle/
 permalink: /04/07/amanda-michelle
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

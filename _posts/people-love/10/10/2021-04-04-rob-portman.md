@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/rob-portman/
 permalink: /04/04/rob-portman
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

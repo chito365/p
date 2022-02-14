@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/carlos-penavega/
 permalink: /04/07/carlos-penavega
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

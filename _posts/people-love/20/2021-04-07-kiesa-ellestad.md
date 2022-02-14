@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kiesa-ellestad/
 permalink: /04/07/kiesa-ellestad
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

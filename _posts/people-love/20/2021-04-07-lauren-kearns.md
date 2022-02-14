@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/lauren-kearns/
 permalink: /04/07/lauren-kearns
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

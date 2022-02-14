@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kurt-tocci/
 permalink: /04/07/kurt-tocci
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

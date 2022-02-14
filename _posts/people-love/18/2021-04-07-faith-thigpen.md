@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/faith-thigpen/
 permalink: /04/07/faith-thigpen
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

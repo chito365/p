@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/brent-rivera/
 permalink: /04/07/brent-rivera
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

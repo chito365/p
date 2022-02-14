@@ -7,14 +7,7 @@ layout: post
 guid: /jordan-young/
 permalink: /jordan-young
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

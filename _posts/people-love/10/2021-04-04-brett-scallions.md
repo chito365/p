@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/brett-scallions/
 permalink: /04/04/brett-scallions
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

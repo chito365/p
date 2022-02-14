@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/collin-brientnall/
 permalink: /04/06/collin-brientnall
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

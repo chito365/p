@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/bway-yungy/
 permalink: /04/07/bway-yungy
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

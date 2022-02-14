@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/hopie-schlenker/
 permalink: /04/07/hopie-schlenker
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

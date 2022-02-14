@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/bert-mccracken/
 permalink: /04/06/bert-mccracken
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

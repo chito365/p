@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/cory-la-quay/
 permalink: /04/06/cory-la-quay
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

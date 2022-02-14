@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/nick-rossi/
 permalink: /04/05/nick-rossi
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

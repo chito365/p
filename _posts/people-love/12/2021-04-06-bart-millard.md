@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/bart-millard/
 permalink: /04/06/bart-millard
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

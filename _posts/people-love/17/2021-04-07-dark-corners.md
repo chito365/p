@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/dark-corners/
 permalink: /04/07/dark-corners
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

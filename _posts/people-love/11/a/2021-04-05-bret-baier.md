@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/bret-baier/
 permalink: /04/05/bret-baier
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

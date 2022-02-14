@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/frederic-chen/
 permalink: /04/07/frederic-chen
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

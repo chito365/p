@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/grace-shadrack/
 permalink: /04/07/grace-shadrack
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

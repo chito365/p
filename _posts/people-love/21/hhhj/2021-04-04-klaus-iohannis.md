@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/klaus-iohannis/
 permalink: /04/04/klaus-iohannis
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

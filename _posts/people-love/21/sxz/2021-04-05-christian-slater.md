@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/christian-slater/
 permalink: /04/05/christian-slater
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

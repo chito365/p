@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/deepika-padukone/
 permalink: /04/07/deepika-padukone
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

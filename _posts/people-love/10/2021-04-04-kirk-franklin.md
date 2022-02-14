@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kirk-franklin/
 permalink: /04/04/kirk-franklin
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

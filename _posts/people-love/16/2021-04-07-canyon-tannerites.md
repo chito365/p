@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/canyon-tannerites/
 permalink: /04/07/canyon-tannerites
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

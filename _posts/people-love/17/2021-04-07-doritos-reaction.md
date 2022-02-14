@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/doritos-reaction/
 permalink: /04/07/doritos-reaction
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

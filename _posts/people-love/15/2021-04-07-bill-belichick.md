@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/bill-belichick/
 permalink: /04/07/bill-belichick
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

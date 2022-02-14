@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/swifty-mcvay/
 permalink: /04/05/swifty-mcvay
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

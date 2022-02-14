@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/callum-mortimer/
 permalink: /04/07/callum-mortimer
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

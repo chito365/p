@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/becky-lynch/
 permalink: /04/07/becky-lynch
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

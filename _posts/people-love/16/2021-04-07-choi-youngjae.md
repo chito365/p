@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/choi-youngjae/
 permalink: /04/07/choi-youngjae
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/giselle-torres/
 permalink: /04/07/giselle-torres
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/bronwyn-bishop/
 permalink: /04/07/bronwyn-bishop
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/ashlee-simpson/
 permalink: /04/07/ashlee-simpson
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

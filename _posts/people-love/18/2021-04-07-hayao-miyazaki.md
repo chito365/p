@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/hayao-miyazaki/
 permalink: /04/07/hayao-miyazaki
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

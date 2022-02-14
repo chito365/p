@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/emmy-perry/
 permalink: /04/07/emmy-perry
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

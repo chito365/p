@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/ceyana-kendall/
 permalink: /04/07/ceyana-kendall
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

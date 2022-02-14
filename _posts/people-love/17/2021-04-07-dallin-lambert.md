@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/dallin-lambert/
 permalink: /04/07/dallin-lambert
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

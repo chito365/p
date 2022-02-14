@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/richard-kruspe/
 permalink: /04/05/richard-kruspe
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

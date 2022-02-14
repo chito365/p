@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/john-cariani/
 permalink: /04/06/john-cariani
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/charly-jordan/
 permalink: /04/07/charly-jordan
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

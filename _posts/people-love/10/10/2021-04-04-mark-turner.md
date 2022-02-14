@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/mark-turner/
 permalink: /04/04/mark-turner
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

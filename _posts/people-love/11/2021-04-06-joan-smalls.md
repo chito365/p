@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/joan-smalls/
 permalink: /04/06/joan-smalls
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

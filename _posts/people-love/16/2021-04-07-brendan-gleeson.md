@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/brendan-gleeson/
 permalink: /04/07/brendan-gleeson
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

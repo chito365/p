@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/joaquin-orellana/
 permalink: /04/07/joaquin-orellana
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

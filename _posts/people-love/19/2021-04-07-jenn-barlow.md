@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jenn-barlow/
 permalink: /04/07/jenn-barlow
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

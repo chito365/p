@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/bazza-gazza/
 permalink: /04/07/bazza-gazza
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

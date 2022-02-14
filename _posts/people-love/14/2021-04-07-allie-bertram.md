@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/allie-bertram/
 permalink: /04/07/allie-bertram
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

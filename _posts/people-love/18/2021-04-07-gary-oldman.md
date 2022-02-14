@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/gary-oldman/
 permalink: /04/07/gary-oldman
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

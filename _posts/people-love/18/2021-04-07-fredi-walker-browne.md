@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/fredi-walker-browne/
 permalink: /04/07/fredi-walker-browne
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/isac-elliot/
 permalink: /04/07/isac-elliot
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

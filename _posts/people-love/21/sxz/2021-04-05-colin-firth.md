@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/colin-firth/
 permalink: /04/05/colin-firth
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

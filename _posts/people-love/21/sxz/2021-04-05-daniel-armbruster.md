@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/daniel-armbruster/
 permalink: /04/05/daniel-armbruster
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

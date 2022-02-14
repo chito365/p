@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/david-pastrnak/
 permalink: /04/07/david-pastrnak
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

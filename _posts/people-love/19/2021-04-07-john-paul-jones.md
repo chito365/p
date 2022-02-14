@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/john-paul-jones/
 permalink: /04/07/john-paul-jones
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

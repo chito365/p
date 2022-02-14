@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/adina-porter/
 permalink: /04/07/adina-porter
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

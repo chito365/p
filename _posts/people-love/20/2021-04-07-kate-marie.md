@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kate-marie/
 permalink: /04/07/kate-marie
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

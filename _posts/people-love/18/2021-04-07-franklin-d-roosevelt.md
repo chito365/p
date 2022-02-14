@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/franklin-d-roosevelt/
 permalink: /04/07/franklin-d-roosevelt
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

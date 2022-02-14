@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jeremy-jones/
 permalink: /04/07/jeremy-jones
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

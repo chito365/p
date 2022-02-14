@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/geo-antoinette/
 permalink: /04/07/geo-antoinette
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

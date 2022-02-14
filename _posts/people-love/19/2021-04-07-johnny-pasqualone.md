@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/johnny-pasqualone/
 permalink: /04/07/johnny-pasqualone
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

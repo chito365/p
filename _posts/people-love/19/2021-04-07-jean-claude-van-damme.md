@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jean-claude-van-damme/
 permalink: /04/07/jean-claude-van-damme
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

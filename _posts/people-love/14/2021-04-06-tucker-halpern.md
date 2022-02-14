@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/tucker-halpern/
 permalink: /04/06/tucker-halpern
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

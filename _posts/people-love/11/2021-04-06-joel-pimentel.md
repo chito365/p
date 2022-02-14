@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/joel-pimentel/
 permalink: /04/06/joel-pimentel
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

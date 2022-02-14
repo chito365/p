@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/georgie-fizz/
 permalink: /04/07/georgie-fizz
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

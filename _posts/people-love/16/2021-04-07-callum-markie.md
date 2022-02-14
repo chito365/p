@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/callum-markie/
 permalink: /04/07/callum-markie
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

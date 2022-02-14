@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/cory-gruter-andrew/
 permalink: /04/07/cory-gruter-andrew
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

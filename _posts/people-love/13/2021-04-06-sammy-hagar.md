@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/sammy-hagar/
 permalink: /04/06/sammy-hagar
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

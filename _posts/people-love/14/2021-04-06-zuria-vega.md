@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/zuria-vega/
 permalink: /04/06/zuria-vega
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

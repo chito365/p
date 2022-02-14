@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/sheldon-whitehouse/
 permalink: /04/04/sheldon-whitehouse
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

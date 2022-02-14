@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/berkcan-guven/
 permalink: /04/07/berkcan-guven
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

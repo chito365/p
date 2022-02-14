@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/bobby-moore/
 permalink: /04/07/bobby-moore
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

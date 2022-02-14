@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/beverly-cleary/
 permalink: /04/07/beverly-cleary
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

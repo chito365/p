@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/the-living-tombstone/
 permalink: /04/04/the-living-tombstone
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

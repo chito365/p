@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/rebecca-jordan/
 permalink: /04/06/rebecca-jordan
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

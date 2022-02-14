@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/angel-moret/
 permalink: /04/07/angel-moret
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

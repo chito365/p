@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/clint-eastwood/
 permalink: /04/07/clint-eastwood
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

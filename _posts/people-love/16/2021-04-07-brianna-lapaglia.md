@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/brianna-lapaglia/
 permalink: /04/07/brianna-lapaglia
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

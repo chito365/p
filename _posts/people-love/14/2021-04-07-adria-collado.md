@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/adria-collado/
 permalink: /04/07/adria-collado
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

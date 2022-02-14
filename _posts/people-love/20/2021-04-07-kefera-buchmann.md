@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kefera-buchmann/
 permalink: /04/07/kefera-buchmann
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

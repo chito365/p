@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jed-barker/
 permalink: /04/06/jed-barker
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

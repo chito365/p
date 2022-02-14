@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/carla-brocker/
 permalink: /04/07/carla-brocker
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

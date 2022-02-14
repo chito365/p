@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/genesis-lynea/
 permalink: /04/07/genesis-lynea
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

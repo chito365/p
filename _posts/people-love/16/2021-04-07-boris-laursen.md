@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/boris-laursen/
 permalink: /04/07/boris-laursen
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

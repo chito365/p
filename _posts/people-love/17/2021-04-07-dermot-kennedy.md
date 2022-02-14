@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/dermot-kennedy/
 permalink: /04/07/dermot-kennedy
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

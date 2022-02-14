@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/yolandi-visser/
 permalink: /04/06/yolandi-visser
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

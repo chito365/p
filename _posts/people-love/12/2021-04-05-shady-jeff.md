@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/shady-jeff/
 permalink: /04/05/shady-jeff
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

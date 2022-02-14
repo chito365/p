@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/hallie-biden/
 permalink: /04/07/hallie-biden
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

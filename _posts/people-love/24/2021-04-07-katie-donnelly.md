@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/katie-donnelly/
 permalink: /04/07/katie-donnelly
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

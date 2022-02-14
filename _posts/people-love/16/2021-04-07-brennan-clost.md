@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/brennan-clost/
 permalink: /04/07/brennan-clost
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/izzy-howard/
 permalink: /04/06/izzy-howard
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

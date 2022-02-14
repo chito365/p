@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/chris-cotter/
 permalink: /04/06/chris-cotter
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

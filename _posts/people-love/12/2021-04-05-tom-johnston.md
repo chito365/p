@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/tom-johnston/
 permalink: /04/05/tom-johnston
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

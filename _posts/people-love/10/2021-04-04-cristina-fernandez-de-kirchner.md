@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/cristina-fernandez-de-kirchner/
 permalink: /04/04/cristina-fernandez-de-kirchner
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

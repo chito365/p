@@ -7,14 +7,7 @@ layout: post
 guid: https://popularbirthdays.com/lewis-platt/
 permalink: /2021/04/07/lewis-platt
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 <!--Content-->

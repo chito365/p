@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jeannie-ortega/
 permalink: /04/07/jeannie-ortega
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

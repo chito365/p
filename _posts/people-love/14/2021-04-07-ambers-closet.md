@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/ambers-closet/
 permalink: /04/07/ambers-closet
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

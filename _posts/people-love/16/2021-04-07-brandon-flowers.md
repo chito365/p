@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/brandon-flowers/
 permalink: /04/07/brandon-flowers
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

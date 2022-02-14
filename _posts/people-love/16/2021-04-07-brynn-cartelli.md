@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/brynn-cartelli/
 permalink: /04/07/brynn-cartelli
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

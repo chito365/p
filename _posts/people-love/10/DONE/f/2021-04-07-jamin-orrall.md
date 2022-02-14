@@ -7,14 +7,7 @@ layout: post
 guid: /jamin-orrall/
 permalink: /jamin-orrall
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

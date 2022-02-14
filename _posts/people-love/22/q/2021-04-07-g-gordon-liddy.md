@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/g-gordon-liddy/
 permalink: /04/07/g-gordon-liddy
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

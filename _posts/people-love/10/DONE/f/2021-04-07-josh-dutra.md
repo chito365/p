@@ -7,14 +7,7 @@ layout: post
 guid: /josh-dutra/
 permalink: /josh-dutra
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

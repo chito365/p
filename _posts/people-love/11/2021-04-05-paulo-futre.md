@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/paulo-futre/
 permalink: /04/05/paulo-futre
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

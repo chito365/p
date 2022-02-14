@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/ema-luketin/
 permalink: /04/07/ema-luketin
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

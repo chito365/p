@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/john-hassall/
 permalink: /04/06/john-hassall
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

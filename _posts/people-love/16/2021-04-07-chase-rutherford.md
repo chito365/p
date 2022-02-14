@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/chase-rutherford/
 permalink: /04/07/chase-rutherford
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

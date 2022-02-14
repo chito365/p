@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/bristol-palin/
 permalink: /04/07/bristol-palin
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/ai-takahashi/
 permalink: /04/06/ai-takahashi
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

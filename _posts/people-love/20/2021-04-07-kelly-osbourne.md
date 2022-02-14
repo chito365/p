@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kelly-osbourne/
 permalink: /04/07/kelly-osbourne
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

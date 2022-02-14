@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/behati-prinsloo/
 permalink: /04/07/behati-prinsloo
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

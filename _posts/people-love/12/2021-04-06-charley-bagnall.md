@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/charley-bagnall/
 permalink: /04/06/charley-bagnall
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

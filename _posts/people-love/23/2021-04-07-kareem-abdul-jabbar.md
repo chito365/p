@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kareem-abdul-jabbar/
 permalink: /04/07/kareem-abdul-jabbar
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

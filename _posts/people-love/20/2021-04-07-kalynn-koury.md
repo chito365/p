@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kalynn-koury/
 permalink: /04/07/kalynn-koury
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

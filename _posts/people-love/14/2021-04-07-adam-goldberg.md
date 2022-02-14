@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/adam-goldberg/
 permalink: /04/07/adam-goldberg
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

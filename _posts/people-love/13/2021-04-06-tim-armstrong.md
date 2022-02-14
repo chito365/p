@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/tim-armstrong/
 permalink: /04/06/tim-armstrong
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

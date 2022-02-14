@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jenn-mcallister/
 permalink: /04/07/jenn-mcallister
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

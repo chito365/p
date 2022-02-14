@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/emily-ratajkowski/
 permalink: /04/07/emily-ratajkowski
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/christo-bowman/
 permalink: /04/05/christo-bowman
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

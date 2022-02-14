@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/daniel-hardcastle/
 permalink: /04/07/daniel-hardcastle
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

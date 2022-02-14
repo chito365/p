@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/laganja-estranja/
 permalink: /04/07/laganja-estranja
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

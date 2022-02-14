@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/ryan-ochoa/
 permalink: /04/06/ryan-ochoa
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

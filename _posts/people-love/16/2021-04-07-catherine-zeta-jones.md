@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/catherine-zeta-jones/
 permalink: /04/07/catherine-zeta-jones
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

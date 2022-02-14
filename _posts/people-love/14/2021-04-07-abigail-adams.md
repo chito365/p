@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/abigail-adams/
 permalink: /04/07/abigail-adams
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/gelena-solano/
 permalink: /04/05/gelena-solano
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

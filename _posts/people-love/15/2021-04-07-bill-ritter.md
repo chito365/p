@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/bill-ritter/
 permalink: /04/07/bill-ritter
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

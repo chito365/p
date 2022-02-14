@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/big-boss-man/
 permalink: /04/07/big-boss-man
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

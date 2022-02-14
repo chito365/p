@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/dani-calleiro/
 permalink: /04/07/dani-calleiro
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

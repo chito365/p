@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/alisa-verner/
 permalink: /04/07/alisa-verner
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/concrafter/
 permalink: /04/07/concrafter
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

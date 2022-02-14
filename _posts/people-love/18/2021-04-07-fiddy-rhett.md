@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/fiddy-rhett/
 permalink: /04/07/fiddy-rhett
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

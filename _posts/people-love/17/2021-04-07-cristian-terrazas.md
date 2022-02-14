@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/cristian-terrazas/
 permalink: /04/07/cristian-terrazas
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

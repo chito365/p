@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/calum-scott/
 permalink: /04/07/calum-scott
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

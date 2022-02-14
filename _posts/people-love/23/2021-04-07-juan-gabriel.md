@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/juan-gabriel/
 permalink: /04/07/juan-gabriel
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

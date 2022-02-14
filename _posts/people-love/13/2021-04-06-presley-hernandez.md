@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/presley-hernandez/
 permalink: /04/06/presley-hernandez
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

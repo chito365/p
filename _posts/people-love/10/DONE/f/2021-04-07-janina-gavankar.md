@@ -7,14 +7,7 @@ layout: post
 guid: /janina-gavankar/
 permalink: /janina-gavankar
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

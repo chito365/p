@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/alexander-graham-bell/
 permalink: /04/07/alexander-graham-bell
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

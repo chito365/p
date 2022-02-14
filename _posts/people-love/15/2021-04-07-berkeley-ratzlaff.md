@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/berkeley-ratzlaff/
 permalink: /04/07/berkeley-ratzlaff
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jermaine-coleman/
 permalink: /04/07/jermaine-coleman
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

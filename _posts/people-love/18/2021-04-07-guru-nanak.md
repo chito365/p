@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/guru-nanak/
 permalink: /04/07/guru-nanak
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kirstie-alley/
 permalink: /04/07/kirstie-alley
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

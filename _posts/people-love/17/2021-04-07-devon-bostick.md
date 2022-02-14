@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/devon-bostick/
 permalink: /04/07/devon-bostick
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

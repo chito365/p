@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/ellen-johnson-sirleaf/
 permalink: /04/05/ellen-johnson-sirleaf
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

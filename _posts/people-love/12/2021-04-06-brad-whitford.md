@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/brad-whitford/
 permalink: /04/06/brad-whitford
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

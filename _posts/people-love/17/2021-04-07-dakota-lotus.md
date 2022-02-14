@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/dakota-lotus/
 permalink: /04/07/dakota-lotus
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

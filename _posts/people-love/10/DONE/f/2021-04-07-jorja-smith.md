@@ -7,14 +7,7 @@ layout: post
 guid: /jorja-smith/
 permalink: /jorja-smith
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

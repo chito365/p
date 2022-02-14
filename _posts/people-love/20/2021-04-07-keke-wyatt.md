@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/keke-wyatt/
 permalink: /04/07/keke-wyatt
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

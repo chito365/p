@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/john-riddle/
 permalink: /04/06/john-riddle
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

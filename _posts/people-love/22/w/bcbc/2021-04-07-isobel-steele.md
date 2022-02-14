@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/isobel-steele/
 permalink: /04/07/isobel-steele
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

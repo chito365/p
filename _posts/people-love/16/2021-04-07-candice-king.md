@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/candice-king/
 permalink: /04/07/candice-king
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

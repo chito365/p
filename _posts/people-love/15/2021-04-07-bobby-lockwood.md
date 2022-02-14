@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/bobby-lockwood/
 permalink: /04/07/bobby-lockwood
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

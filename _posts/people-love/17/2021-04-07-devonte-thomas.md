@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/devonte-thomas/
 permalink: /04/07/devonte-thomas
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

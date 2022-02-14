@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jason-segel/
 permalink: /04/07/jason-segel
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

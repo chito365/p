@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/fletcher-shears/
 permalink: /04/07/fletcher-shears
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/giselle-lomelino/
 permalink: /04/05/giselle-lomelino
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

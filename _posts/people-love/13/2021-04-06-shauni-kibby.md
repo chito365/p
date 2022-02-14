@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/shauni-kibby/
 permalink: /04/06/shauni-kibby
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

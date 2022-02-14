@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/corey-seager/
 permalink: /04/07/corey-seager
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

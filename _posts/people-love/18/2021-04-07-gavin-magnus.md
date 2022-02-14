@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/gavin-magnus/
 permalink: /04/07/gavin-magnus
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/catherine-szabo/
 permalink: /04/07/catherine-szabo
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

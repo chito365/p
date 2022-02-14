@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jasper-johns/
 permalink: /04/07/jasper-johns
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

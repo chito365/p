@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kerr-smith/
 permalink: /04/07/kerr-smith
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

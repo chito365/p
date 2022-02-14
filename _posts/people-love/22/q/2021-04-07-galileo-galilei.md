@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/galileo-galilei/
 permalink: /04/07/galileo-galilei
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

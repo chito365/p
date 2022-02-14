@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/bryan-lanning/
 permalink: /04/07/bryan-lanning
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

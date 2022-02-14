@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/alena-garver/
 permalink: /04/07/alena-garver
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

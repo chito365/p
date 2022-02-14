@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/john-rutsey/
 permalink: /04/06/john-rutsey
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

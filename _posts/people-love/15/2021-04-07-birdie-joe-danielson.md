@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/birdie-joe-danielson/
 permalink: /04/07/birdie-joe-danielson
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/roger-bart/
 permalink: /04/06/roger-bart
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

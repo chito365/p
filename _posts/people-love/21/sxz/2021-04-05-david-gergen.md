@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/david-gergen/
 permalink: /04/05/david-gergen
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

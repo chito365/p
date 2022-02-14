@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/pedro-scooby/
 permalink: /04/05/pedro-scooby
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/homer-hickam/
 permalink: /04/07/homer-hickam
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

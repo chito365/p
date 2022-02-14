@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/bobby-charlton/
 permalink: /04/07/bobby-charlton
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

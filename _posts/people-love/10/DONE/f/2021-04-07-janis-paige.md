@@ -7,14 +7,7 @@ layout: post
 guid: /janis-paige/
 permalink: /janis-paige
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

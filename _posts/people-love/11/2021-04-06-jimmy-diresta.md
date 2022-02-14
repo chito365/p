@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jimmy-diresta/
 permalink: /04/06/jimmy-diresta
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

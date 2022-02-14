@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/alma-richards/
 permalink: /04/07/alma-richards
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/greg-horan/
 permalink: /04/07/greg-horan
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

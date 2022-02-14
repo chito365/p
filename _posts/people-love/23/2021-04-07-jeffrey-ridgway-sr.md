@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jeffrey-ridgway-sr/
 permalink: /04/07/jeffrey-ridgway-sr
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

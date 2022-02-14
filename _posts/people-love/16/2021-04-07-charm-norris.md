@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/charm-norris/
 permalink: /04/07/charm-norris
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

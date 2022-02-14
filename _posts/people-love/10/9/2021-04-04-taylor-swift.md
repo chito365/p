@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/taylor-swift/
 permalink: /04/04/taylor-swift
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

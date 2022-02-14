@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/ivan-martinez/
 permalink: /04/07/ivan-martinez
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

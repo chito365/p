@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/patrick-simmons/
 permalink: /04/05/patrick-simmons
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

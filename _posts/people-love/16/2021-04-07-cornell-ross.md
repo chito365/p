@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/cornell-ross/
 permalink: /04/07/cornell-ross
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

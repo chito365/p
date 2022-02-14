@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/sharon-osbourne/
 permalink: /04/05/sharon-osbourne
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

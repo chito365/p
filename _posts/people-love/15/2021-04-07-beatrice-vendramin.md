@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/beatrice-vendramin/
 permalink: /04/07/beatrice-vendramin
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

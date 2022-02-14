@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/gary-glitter/
 permalink: /04/07/gary-glitter
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

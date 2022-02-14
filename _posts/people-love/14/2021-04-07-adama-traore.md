@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/adama-traore/
 permalink: /04/07/adama-traore
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jake-the-viking/
 permalink: /04/06/jake-the-viking
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

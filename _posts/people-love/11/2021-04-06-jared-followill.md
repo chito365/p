@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jared-followill/
 permalink: /04/06/jared-followill
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

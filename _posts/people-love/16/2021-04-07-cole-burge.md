@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/cole-burge/
 permalink: /04/07/cole-burge
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/brandon-jenner/
 permalink: /04/07/brandon-jenner
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

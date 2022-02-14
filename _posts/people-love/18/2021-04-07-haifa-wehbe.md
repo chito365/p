@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/haifa-wehbe/
 permalink: /04/07/haifa-wehbe
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

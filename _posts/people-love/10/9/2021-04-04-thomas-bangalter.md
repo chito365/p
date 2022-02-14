@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/thomas-bangalter/
 permalink: /04/04/thomas-bangalter
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

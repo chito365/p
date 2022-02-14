@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/chris-the-meme-god/
 permalink: /04/07/chris-the-meme-god
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

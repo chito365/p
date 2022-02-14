@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/robert-richardson/
 permalink: /04/04/robert-richardson
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

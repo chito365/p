@@ -7,14 +7,7 @@ layout: post
 guid: /lexi-rivera/
 permalink: /2021/04/07/lexi-rivera
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 <!--Content-->

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/heidi-heitkamp/
 permalink: /04/04/heidi-heitkamp
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

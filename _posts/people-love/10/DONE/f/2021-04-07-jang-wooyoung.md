@@ -7,14 +7,7 @@ layout: post
 guid: /jang-wooyoung/
 permalink: /jang-wooyoung
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

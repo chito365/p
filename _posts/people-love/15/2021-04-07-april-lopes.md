@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/april-lopes/
 permalink: /04/07/april-lopes
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

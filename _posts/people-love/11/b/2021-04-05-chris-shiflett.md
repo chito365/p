@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/chris-shiflett/
 permalink: /04/05/chris-shiflett
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

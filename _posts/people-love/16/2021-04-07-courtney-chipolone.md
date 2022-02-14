@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/courtney-chipolone/
 permalink: /04/07/courtney-chipolone
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

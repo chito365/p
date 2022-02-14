@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/adam-kronshagen/
 permalink: /04/06/adam-kronshagen
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/inspectah-deck/
 permalink: /04/06/inspectah-deck
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

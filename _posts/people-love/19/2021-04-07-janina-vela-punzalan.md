@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/janina-vela-punzalan/
 permalink: /04/07/janina-vela-punzalan
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

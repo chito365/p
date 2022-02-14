@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/shawn-jump/
 permalink: /04/06/shawn-jump
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

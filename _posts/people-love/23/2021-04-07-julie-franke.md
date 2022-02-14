@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/julie-franke/
 permalink: /04/07/julie-franke
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

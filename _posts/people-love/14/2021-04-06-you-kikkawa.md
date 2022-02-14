@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/you-kikkawa/
 permalink: /04/06/you-kikkawa
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

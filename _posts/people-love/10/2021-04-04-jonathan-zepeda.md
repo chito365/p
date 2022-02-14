@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jonathan-zepeda/
 permalink: /04/04/jonathan-zepeda
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

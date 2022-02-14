@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/cat-keenan/
 permalink: /04/07/cat-keenan
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

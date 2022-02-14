@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/fgteev-shawn/
 permalink: /04/07/fgteev-shawn
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/david-alvarez/
 permalink: /04/07/david-alvarez
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

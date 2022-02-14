@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kira-kosarin/
 permalink: /04/07/kira-kosarin
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/izzy-life-with-brothers/
 permalink: /04/07/izzy-life-with-brothers
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

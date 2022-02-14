@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/slim-jesus/
 permalink: /04/06/slim-jesus
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

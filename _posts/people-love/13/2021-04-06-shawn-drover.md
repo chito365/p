@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/shawn-drover/
 permalink: /04/06/shawn-drover
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

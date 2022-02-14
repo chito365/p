@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/simon-phillips/
 permalink: /04/05/simon-phillips
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

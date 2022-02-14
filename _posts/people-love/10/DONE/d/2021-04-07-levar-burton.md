@@ -7,14 +7,7 @@ layout: post
 guid: https://popularbirthdays.com/levar-burton/
 permalink: /2021/04/07/levar-burton
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 <!--Content-->

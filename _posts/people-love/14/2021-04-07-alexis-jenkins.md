@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/alexis-jenkins/
 permalink: /04/07/alexis-jenkins
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

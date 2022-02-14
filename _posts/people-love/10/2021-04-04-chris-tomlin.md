@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/chris-tomlin/
 permalink: /04/04/chris-tomlin
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

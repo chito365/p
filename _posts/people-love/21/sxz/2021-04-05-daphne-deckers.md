@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/daphne-deckers/
 permalink: /04/05/daphne-deckers
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

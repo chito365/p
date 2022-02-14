@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/erick-brian-colon/
 permalink: /04/07/erick-brian-colon
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

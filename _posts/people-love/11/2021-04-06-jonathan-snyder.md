@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jonathan-snyder/
 permalink: /04/06/jonathan-snyder
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

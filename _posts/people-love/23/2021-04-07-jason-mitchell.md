@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jason-mitchell/
 permalink: /04/07/jason-mitchell
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

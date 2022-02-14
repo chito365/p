@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/seth-morrison/
 permalink: /04/06/seth-morrison
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/nick-sheppard/
 permalink: /04/05/nick-sheppard
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

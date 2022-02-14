@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/dave-parsons/
 permalink: /04/04/dave-parsons
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

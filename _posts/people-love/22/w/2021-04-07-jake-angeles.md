@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jake-angeles/
 permalink: /04/07/jake-angeles
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/karen-gillan/
 permalink: /04/07/karen-gillan
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/zachary-smith/
 permalink: /04/06/zachary-smith
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/heir-of-atticus/
 permalink: /04/07/heir-of-atticus
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

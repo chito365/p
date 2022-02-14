@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/gg-leblanc/
 permalink: /04/07/gg-leblanc
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

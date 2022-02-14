@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/grandad-joe/
 permalink: /04/07/grandad-joe
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

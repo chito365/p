@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/a-boogie-wit-da-hoodie/
 permalink: /04/07/a-boogie-wit-da-hoodie
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

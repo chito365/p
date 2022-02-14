@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/rudy-mancuso/
 permalink: /04/06/rudy-mancuso
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

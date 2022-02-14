@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jake-hardy/
 permalink: /04/06/jake-hardy
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/john-barrow/
 permalink: /04/04/john-barrow
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: /junnie-boy/
 permalink: /junnie-boy
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

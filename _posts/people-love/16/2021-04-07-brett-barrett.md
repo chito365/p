@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/brett-barrett/
 permalink: /04/07/brett-barrett
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

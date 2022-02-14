@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/sadio-mane/
 permalink: /04/06/sadio-mane
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

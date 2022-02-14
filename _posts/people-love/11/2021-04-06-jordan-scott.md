@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jordan-scott/
 permalink: /04/06/jordan-scott
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/frank-pugan/
 permalink: /04/07/frank-pugan
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

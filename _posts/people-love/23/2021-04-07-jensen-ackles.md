@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jensen-ackles/
 permalink: /04/07/jensen-ackles
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

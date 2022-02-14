@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/craig-goldy/
 permalink: /04/05/craig-goldy
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

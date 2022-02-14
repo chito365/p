@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/david-spade/
 permalink: /04/07/david-spade
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

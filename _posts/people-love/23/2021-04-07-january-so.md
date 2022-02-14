@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/january-so/
 permalink: /04/07/january-so
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

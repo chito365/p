@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/dolly-parton/
 permalink: /04/07/dolly-parton
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

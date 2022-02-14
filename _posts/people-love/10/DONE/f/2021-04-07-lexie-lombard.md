@@ -7,14 +7,7 @@ layout: post
 guid: /lexie-lombard/
 permalink: /2021/04/07/lexie-lombard
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 <!--Content-->

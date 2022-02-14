@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/lane-hancock/
 permalink: /04/07/lane-hancock
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

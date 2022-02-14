@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/bruce-stewart/
 permalink: /04/07/bruce-stewart
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

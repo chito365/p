@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/greg-marks/
 permalink: /04/07/greg-marks
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

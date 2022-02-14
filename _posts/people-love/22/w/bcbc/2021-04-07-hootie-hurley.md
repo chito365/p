@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/hootie-hurley/
 permalink: /04/07/hootie-hurley
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

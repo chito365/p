@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jeancarlo-leon/
 permalink: /04/07/jeancarlo-leon
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/amari-cooper/
 permalink: /04/07/amari-cooper
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

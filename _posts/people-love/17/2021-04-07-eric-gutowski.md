@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/eric-gutowski/
 permalink: /04/07/eric-gutowski
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

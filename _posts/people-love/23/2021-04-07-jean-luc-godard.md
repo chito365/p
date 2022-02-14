@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jean-luc-godard/
 permalink: /04/07/jean-luc-godard
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

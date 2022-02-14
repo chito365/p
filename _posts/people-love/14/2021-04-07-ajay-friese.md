@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/ajay-friese/
 permalink: /04/07/ajay-friese
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

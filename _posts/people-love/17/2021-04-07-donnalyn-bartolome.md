@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/donnalyn-bartolome/
 permalink: /04/07/donnalyn-bartolome
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

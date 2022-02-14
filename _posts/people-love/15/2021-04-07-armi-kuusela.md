@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/armi-kuusela/
 permalink: /04/07/armi-kuusela
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

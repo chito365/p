@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/amara-que-linda/
 permalink: /04/07/amara-que-linda
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

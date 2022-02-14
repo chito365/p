@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/george-clinton/
 permalink: /04/07/george-clinton
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

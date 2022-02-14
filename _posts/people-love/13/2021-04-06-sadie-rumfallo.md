@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/sadie-rumfallo/
 permalink: /04/06/sadie-rumfallo
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

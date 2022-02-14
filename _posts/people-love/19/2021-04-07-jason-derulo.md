@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jason-derulo/
 permalink: /04/07/jason-derulo
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

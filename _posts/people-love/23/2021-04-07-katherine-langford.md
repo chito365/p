@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/katherine-langford/
 permalink: /04/07/katherine-langford
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

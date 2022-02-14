@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/ian-wright/
 permalink: /04/07/ian-wright
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

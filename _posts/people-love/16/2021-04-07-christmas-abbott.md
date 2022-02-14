@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/christmas-abbott/
 permalink: /04/07/christmas-abbott
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kris-bryant/
 permalink: /04/07/kris-bryant
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

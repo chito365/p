@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/cote-de-pablo/
 permalink: /04/07/cote-de-pablo
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

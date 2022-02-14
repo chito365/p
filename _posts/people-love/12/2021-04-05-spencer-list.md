@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/spencer-list/
 permalink: /04/05/spencer-list
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

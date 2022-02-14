@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jesus-ortiz-paz/
 permalink: /04/07/jesus-ortiz-paz
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

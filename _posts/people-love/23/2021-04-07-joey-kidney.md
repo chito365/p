@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/joey-kidney/
 permalink: /04/07/joey-kidney
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

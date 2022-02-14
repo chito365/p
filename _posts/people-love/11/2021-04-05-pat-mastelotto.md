@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/pat-mastelotto/
 permalink: /04/05/pat-mastelotto
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

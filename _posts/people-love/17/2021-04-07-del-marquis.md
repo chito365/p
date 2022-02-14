@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/del-marquis/
 permalink: /04/07/del-marquis
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kade-knight/
 permalink: /04/07/kade-knight
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

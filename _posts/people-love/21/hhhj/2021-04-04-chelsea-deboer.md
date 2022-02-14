@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/chelsea-deboer/
 permalink: /04/04/chelsea-deboer
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

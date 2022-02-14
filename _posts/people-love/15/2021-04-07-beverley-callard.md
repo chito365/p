@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/beverley-callard/
 permalink: /04/07/beverley-callard
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

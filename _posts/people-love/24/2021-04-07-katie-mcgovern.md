@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/katie-mcgovern/
 permalink: /04/07/katie-mcgovern
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

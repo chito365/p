@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/wyatt-starkman/
 permalink: /04/06/wyatt-starkman
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

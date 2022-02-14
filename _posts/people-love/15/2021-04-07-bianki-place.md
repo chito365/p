@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/bianki-place/
 permalink: /04/07/bianki-place
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

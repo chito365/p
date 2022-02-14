@@ -7,14 +7,7 @@ layout: post
 guid: /julia-bergeron/
 permalink: /julia-bergeron
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jerome-jarre/
 permalink: /04/07/jerome-jarre
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jack-patterson/
 permalink: /04/04/jack-patterson
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

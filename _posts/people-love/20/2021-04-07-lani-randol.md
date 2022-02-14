@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/lani-randol/
 permalink: /04/07/lani-randol
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

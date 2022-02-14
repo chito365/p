@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/andrew-scites/
 permalink: /04/07/andrew-scites
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/akira-toriyama/
 permalink: /04/05/akira-toriyama
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

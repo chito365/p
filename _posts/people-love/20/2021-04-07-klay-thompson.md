@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/klay-thompson/
 permalink: /04/07/klay-thompson
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

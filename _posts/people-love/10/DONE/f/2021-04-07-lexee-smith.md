@@ -7,14 +7,7 @@ layout: post
 guid: /lexee-smith/
 permalink: /2021/04/07/lexee-smith
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 <!--Content-->

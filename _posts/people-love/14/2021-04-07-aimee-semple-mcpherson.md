@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/aimee-semple-mcpherson/
 permalink: /04/07/aimee-semple-mcpherson
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

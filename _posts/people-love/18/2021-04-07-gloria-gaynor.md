@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/gloria-gaynor/
 permalink: /04/07/gloria-gaynor
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

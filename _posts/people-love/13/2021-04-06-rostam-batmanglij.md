@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/rostam-batmanglij/
 permalink: /04/06/rostam-batmanglij
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

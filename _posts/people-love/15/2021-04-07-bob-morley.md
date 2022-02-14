@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/bob-morley/
 permalink: /04/07/bob-morley
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

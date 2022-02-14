@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kelsey-simone/
 permalink: /04/07/kelsey-simone
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

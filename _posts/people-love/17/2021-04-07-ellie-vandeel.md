@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/ellie-vandeel/
 permalink: /04/07/ellie-vandeel
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

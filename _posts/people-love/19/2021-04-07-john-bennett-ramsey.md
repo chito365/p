@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/john-bennett-ramsey/
 permalink: /04/07/john-bennett-ramsey
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

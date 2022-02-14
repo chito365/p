@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/dennis-vareide/
 permalink: /04/07/dennis-vareide
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

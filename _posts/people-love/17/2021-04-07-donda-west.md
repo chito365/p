@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/donda-west/
 permalink: /04/07/donda-west
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

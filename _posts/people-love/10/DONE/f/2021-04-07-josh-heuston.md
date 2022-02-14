@@ -7,14 +7,7 @@ layout: post
 guid: /josh-heuston/
 permalink: /josh-heuston
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

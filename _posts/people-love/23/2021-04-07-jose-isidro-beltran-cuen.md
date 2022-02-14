@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jose-isidro-beltran-cuen/
 permalink: /04/07/jose-isidro-beltran-cuen
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

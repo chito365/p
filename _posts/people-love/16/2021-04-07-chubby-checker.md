@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/chubby-checker/
 permalink: /04/07/chubby-checker
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

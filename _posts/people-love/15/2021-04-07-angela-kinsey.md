@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/angela-kinsey/
 permalink: /04/07/angela-kinsey
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

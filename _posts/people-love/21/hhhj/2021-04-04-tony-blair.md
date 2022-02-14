@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/tony-blair/
 permalink: /04/04/tony-blair
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

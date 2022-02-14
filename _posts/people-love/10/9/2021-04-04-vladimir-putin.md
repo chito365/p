@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/vladimir-putin/
 permalink: /04/04/vladimir-putin
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

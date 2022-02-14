@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/justin-vernon/
 permalink: /04/04/justin-vernon
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

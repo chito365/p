@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/joel-bruyere/
 permalink: /04/06/joel-bruyere
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

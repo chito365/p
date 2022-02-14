@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/brian-dales/
 permalink: /04/06/brian-dales
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

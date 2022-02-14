@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jason-mendez/
 permalink: /04/07/jason-mendez
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

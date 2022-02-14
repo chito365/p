@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/rick-burch/
 permalink: /04/06/rick-burch
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

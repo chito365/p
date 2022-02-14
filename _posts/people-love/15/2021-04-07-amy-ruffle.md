@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/amy-ruffle/
 permalink: /04/07/amy-ruffle
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

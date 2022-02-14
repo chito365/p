@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/gary-lineker/
 permalink: /04/07/gary-lineker
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

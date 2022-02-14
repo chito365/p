@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/athena-ripka/
 permalink: /04/07/athena-ripka
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

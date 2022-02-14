@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/carson-boatman/
 permalink: /04/05/carson-boatman
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

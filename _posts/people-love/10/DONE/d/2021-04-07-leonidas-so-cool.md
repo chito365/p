@@ -7,14 +7,7 @@ layout: post
 guid: https://popularbirthdays.com/leonidas-so-cool/
 permalink: /2021/04/07/leonidas-so-cool
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 <!--Content-->

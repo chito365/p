@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/dougie-poynter/
 permalink: /04/05/dougie-poynter
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

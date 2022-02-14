@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/christi-paul/
 permalink: /04/05/christi-paul
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

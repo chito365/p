@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/aki-hakala/
 permalink: /04/07/aki-hakala
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

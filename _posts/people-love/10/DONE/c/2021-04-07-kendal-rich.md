@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/kendal-rich/
 permalink: /04/07/kendal-rich
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

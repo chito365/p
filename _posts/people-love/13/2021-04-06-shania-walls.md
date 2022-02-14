@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/shania-walls/
 permalink: /04/06/shania-walls
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

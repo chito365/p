@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jazz-thornton/
 permalink: /04/07/jazz-thornton
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

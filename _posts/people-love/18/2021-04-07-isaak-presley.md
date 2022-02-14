@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/isaak-presley/
 permalink: /04/07/isaak-presley
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

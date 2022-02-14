@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/andy-summers/
 permalink: /04/07/andy-summers
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/adele-castillon/
 permalink: /04/07/adele-castillon
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

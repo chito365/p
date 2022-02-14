@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/pat-kiernan/
 permalink: /04/05/pat-kiernan
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

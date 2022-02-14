@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/carl-weathers/
 permalink: /04/07/carl-weathers
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

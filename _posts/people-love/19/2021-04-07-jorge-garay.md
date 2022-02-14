@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/jorge-garay/
 permalink: /04/07/jorge-garay
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

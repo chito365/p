@@ -7,14 +7,7 @@ layout: post
 guid: /judith-barsi/
 permalink: /judith-barsi
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

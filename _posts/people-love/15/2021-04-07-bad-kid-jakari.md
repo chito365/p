@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/bad-kid-jakari/
 permalink: /04/07/bad-kid-jakari
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

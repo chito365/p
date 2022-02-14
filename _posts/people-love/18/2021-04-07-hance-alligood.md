@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/hance-alligood/
 permalink: /04/07/hance-alligood
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

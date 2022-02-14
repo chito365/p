@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/bridger-nelson/
 permalink: /04/06/bridger-nelson
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 

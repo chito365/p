@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/stef-burns/
 permalink: /04/06/stef-burns
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

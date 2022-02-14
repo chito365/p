@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/isaiah-thomas/
 permalink: /04/07/isaiah-thomas
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

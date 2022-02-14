@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/colonel-sanders/
 permalink: /04/07/colonel-sanders
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

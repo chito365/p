@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/elvis-the-alien/
 permalink: /04/07/elvis-the-alien
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

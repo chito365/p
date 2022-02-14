@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/john-kasich/
 permalink: /04/07/john-kasich
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

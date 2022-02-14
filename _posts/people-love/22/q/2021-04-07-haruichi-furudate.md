@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/haruichi-furudate/
 permalink: /04/07/haruichi-furudate
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
   - unspecified
   - single
   - relationship

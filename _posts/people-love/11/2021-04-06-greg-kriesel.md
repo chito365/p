@@ -7,14 +7,7 @@ layout: post
 guid: https://ukdataservers.com/greg-kriesel/
 permalink: /04/06/greg-kriesel
 tags:
-  - claims
-  - lawyer
-  - doctor
-  - house
-  - multi family
-  - online
-  - poll
-  - business
+ - show love
 category: Guides
 ---
 
