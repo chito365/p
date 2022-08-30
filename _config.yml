@@ -21,7 +21,7 @@
 title: "Birthday Wishes & messages from the People"
 email: oscahchitoh@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Birtday, Fans messages and stories to say thank you. Designed for teachers, celebrities and mentors of all kinds.
+  Birthday, Fans messages and stories to say thank you. Designed for teachers, celebrities and mentors of all kinds.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.popularbirthdays.com" # the base hostname & protocol for your site, e.g. http://example.com
 repository: chitoh365/p
@@ -36,8 +36,7 @@ disqus: afriqueunique-org
 
 author: Chitoh
 author_bio: >-
-  Hey there! 😄 My name is Chitoh. I'm looking to help those that need to be thanked, or 
-  searching for a platform to show gratitude for the person they love. This platform is for thank you and Love you messages from the People, stats, messages and stories to give gratitude. Designed for teachers, celebrities and mentors of all kinds.
+  Hello there! Dan GO is my name. Openly sharing this platform to express appreciation for the person you adore, write Send birthday greetings, thank you notes, and messages of love to people. Stats, messages, and tales from all people to express gratitude designed for all types of mentors, including instructors and celebrities.
 author_pic: https://www.afriqueunique.org/assets/profile.png
 paginate: 4
 paginate_path: "/:num/"
